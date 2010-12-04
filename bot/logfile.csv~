@@ -1,0 +1,83 @@
+#Date	Searchkey	searchvalue	newkey	newvalue	Objekts found	Changset-Nr	Errorlog
+2010-09-27	addr:city	Frankfurt am Main - Germany	addr:city	Frankfurt			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	addr:city	Frankfurt/M	addr:city	Frankfurt			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	addr:city	Frankfurt/Main	addr:city	Frankfurt			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	addr:city	Muenchen	addr:city	München			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	addr:city	münchen	addr:city	München			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	addr:city	Munchen	addr:city	München			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	addr:city	munich	addr:city	München			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	addr:city	Munich	addr:city	München			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	addr:country	de	addr:country	DE			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	addr:country	deutschland	addr:country	DE			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	addr:country	Deutschland	addr:country	DE			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	addr:country	Germany	addr:country	DE			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	addr:interpolation	uneven	addr:interpolation	odd			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	amanety	.*	amenity	*			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	amanity	.*	amenity	*			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	Amenity	.*	amenity	*	1	5891156	
+2010-09-27	amenity	barbecue	amenity	bbq			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	amenity	barbeque	amenity	bbq			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	amenity	church	amenity	place_of_worship			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	amenity	Church	amenity	place_of_worship			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	amenity	church hall	amenity	church_hall			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	amenity	grave yard	amenity	grave_yard			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	amenity	grave-yard	amenity	grave_yard			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	amenity	graveyard	amenity	grave_yard			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	amenity	hotel	tourism	hotel	4	5891161	
+2010-09-27	amenity	Hotel	tourism	hotel	1	5891164	
+2010-09-27	amenity	Kindergarten	amenity	kindergarten			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	amenity	market	amenity	marketplace			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	amenity	Mosque	amenity	place_of_worship			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	amenity	motel	tourism	motel			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	amenity	nursing home	amenity	nursing_home			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	amenity	place_of_worhship	amenity	place_of_worship			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	amenity	place _of_worship	amenity	place_of_worship			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	amenity	place_of _worship	amenity	place_of_worship			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	amenity	postbox	amenity	post_box			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	amenity	supermarket	shop	supermarket	10	5891173	
+2010-09-27	bicycles	.*	bicycle	*			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	bicylce	.*	bicycle	*			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	bicyle	.*	bicycle	*			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	maxspeed	20mph	maxspeed	20 mph			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	maxspeed	30mph	maxspeed	30 mph			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	maxspeed	40mph	maxspeed	40 mph			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	maxspeed	50mph	maxspeed	50 mph			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	maxspeed	60mph	maxspeed	60 mph			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	max_speed	.*	maxspeed	*			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	shop	animals	shop	pet			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	shop	book	shop	books			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	shop	car_dealer	shop	car			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	shop	carpets	shop	carpet			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	shop	cars	shop	car	1	5891177	
+2010-09-27	shop	cell_phones	shop	mobile_phone			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	shop	clothing	shop	clothes			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	shop	delicatessen	shop	deli			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	shop	flowers	shop	florist	3	5891178	
+2010-09-27	shop	garden	shop	garden_centre 			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	shop	gifts	shop	gift	2	5891179	
+2010-09-27	shop	jeweller	shop	jewelry			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	shop	jewellery	shop	jewelry			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	shop	mobile	shop	mobile_phone			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	shop	motorbike	shop	motorcycle			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	shop	pets	shop	pet	1	5891184	
+2010-09-27	shop	sex	shop	erotic	1	5891185	
+2010-09-27	shop	shopping center	shop	mall			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	shop	shopping_center	shop	mall			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-27	shop	souvenir	shop	gift			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+
+2010-09-28 23:44:50	addr:city	Frankfurt am Main - Germany	addr:city	Frankfurt			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-28 23:44:53	addr:city	Frankfurt/M	addr:city	Frankfurt	
+2010-09-28 23:46:48	addr:city	Frankfurt am Main - Germany	addr:city	Frankfurt			No xapi-Server working			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-28 23:46:50	addr:city	Frankfurt/M	addr:city	Frankfurt	
+2010-09-28 23:47:30	addr:city	Frankfurt am Main - Germany	addr:city	Frankfurt			No xapi-Server working			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-28 23:47:32	addr:city	Frankfurt/M	addr:city	Frankfurt	
+2010-09-28 23:48:41	addr:city	Frankfurt am Main - Germany	addr:city	Frankfurt			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-28 23:48:45	addr:city	Frankfurt/M	addr:city	Frankfurt	
+2010-09-28 23:50:24	addr:city	Frankfurt am Main - Germany	addr:city	Frankfurt			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-28 23:50:28	addr:city	Frankfurt/M	addr:city	Frankfurt	
+2010-09-29 00:13:15	addr:city	Frankfurt am Main - Germany	addr:city	Frankfurt			Suchausdruck nicht gefunden. Nichts weiter zu tun	
+2010-09-29 00:13:37	addr:city	Frankfurt/Main	addr:city	Frankfurt			aborting, by	
+
+2010-09-29 00:15:41	addr:city	Frankfurt am Main - Germany	addr:city	Frankfurt			skipping..	
+2010-09-29 00:15:42	addr:city	Frankfurt/M	addr:city	Frankfurt	23	5907813	Error editing node; aborting	Error editing node; aborting	Error editing node; aborting	Error editing node; aborting	Error editing node; aborting	Error editing node; aborting	Error editing node; aborting	Error editing node; aborting	Error editing node; aborting	Error editing node; aborting	Error editing node; aborting	Error editing node; aborting	Error editing node; aborting	Error editing node; aborting	Error editing node; aborting	Error editing node; aborting	Error editing node; aborting	Error editing node; aborting	Error editing node; aborting	Error editing node; aborting	Error editing node; aborting	Error editing node; aborting	Error editing node; aborting	
+2010-09-29 00:15:59	addr:city	Frankfurt/Main	addr:city	Frankfurt	

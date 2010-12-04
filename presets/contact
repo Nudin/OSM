@@ -1,0 +1,16 @@
+<presets>
+  <item name="Kontakt" icon="contact.png" type="node,closedway">
+    <label text="Kontakt-Infos hinzufügen." />
+
+    <text key="contact:phone" text="Telefon-Nr." />
+    <text key="contact:fax" text="Telefax-Nr." />
+    <text key="contact:website" text="Webseite" />
+    <text key="contact:email" text="E-Mail" />
+
+    <space />
+
+    <text key="phone" text="Telefon-Nr. (alt)" />
+    <text key="website" text="Webseite (alt)" />
+        
+  </item>
+</presets>

@@ -1,0 +1,6 @@
+<osm>
+ <changeset>
+	<tag k="created_by" v="MichisSimpleBot"/>
+	<tag k="comment" v="Bot: changing shop=shopping_center to shop=mall"/>
+ </changeset>
+</osm>

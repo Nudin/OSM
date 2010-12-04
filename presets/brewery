@@ -1,0 +1,10 @@
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0">
+  <item name="brewery" icon="beer.png" type="node,closedway">
+    <label text="Brauerei einzeichnen." />
+
+    <combo key="brewery" text="Brauerei" values="Augustiner,Löwenbräu,Allgäuer Brauhaus" default="Augustiner" delete_if_empty="true" />
+    <combo key="brewery:Weizen" text="Weissbier" values="Franziskaner" delete_if_empty="true" />
+    
+    
+  </item>
+</presets>

@@ -1,0 +1,6 @@
+<osm>
+ <changeset>
+	<tag k="created_by" v="NodeEdit"/>
+	<tag k="comment" v="Edited manually"/>
+ </changeset>
+</osm>

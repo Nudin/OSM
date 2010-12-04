@@ -1,0 +1,146 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+  <!--
+
+  Copyright 2009, 2010
+  * Jörg Feuerhake
+  * Tanjeff Moos <tanjeff@cccmz.de> (Chaos Computer Club Mainz e.V.)
+  * Michael Schönitzer <michael ät schoenitzer.de>
+
+
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  (at your option) any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+  -->
+  <!--
+  This file serves as infile for the machMateKate.rb script, which replaces 
+  certain patterns and places the result in matekate.html.
+  -->
+
+  <head>
+    <style type="text/css">
+      .olControlAttribution {
+        bottom: 0px;
+        right:  220px;
+        background-color:white;
+        padding: 4px;
+        opacity: 0.60;
+      }
+      .olControlScaleLine {
+        bottom: 0px;
+        left: 0px;
+        background-color:white;
+        padding: 4px;
+        opacity: 0.60;
+      }
+      .olControlPermalink {
+        top: 0px;
+        right: 0px;
+        height: 1.2em;
+        background-color:white;
+        padding: 4px;
+        opacity: 0.60;
+    }
+    </style>
+
+    <script src="http://www.openlayers.org/api/OpenLayers.js">
+    </script>
+
+    <script src="http://www.openstreetmap.org/openlayers/OpenStreetMap.js">
+    </script>
+      
+    <script type="text/javascript">
+      <!--
+      var map;
+        scale = new OpenLayers.Control.ScaleLine();
+        scale.geodesic = true;
+
+      function init() {
+	// Create new map
+	map = new OpenLayers.Map('map',
+	  {
+	    theme:    null,
+	    projection: new OpenLayers.Projection("EPSG:900913"),
+	    displayProjection: new OpenLayers.Projection("EPSG:4326"),
+                                   controls: [ new OpenLayers.Control.Navigation(),    // direct panning via mouse drag
+                                               new OpenLayers.Control.LayerSwitcher(), // select map and features to display
+                                               new OpenLayers.Control.Attribution(),   // attribution text
+                                               new OpenLayers.Control.PanZoomBar(),    // larger navigation control
+                                               new OpenLayers.Control.Permalink(),     // bookmarkable map links
+						scale
+                                             ]
+	  });
+
+	// Add base layers to map
+	var layerMapnik = new OpenLayers.Layer.OSM.Mapnik("Mapnik");
+	var layerOr = new OpenLayers.Layer.OSM.Osmarender("Osmarender");
+	var layerCm = new OpenLayers.Layer.OSM.CycleMap("Radfahrkarte");
+	map.addLayers([layerMapnik,layerOr,layerCm]);
+
+
+	// Add overlay for brewery=Augustiner tagged locations
+	var august = new OpenLayers.Layer.Text(
+		"Augustiner \
+		<small>(##count_august##) \
+		##date_august##\
+		</small>",
+	      {
+		location:"./augustiner.txt",
+		projection: map.displayProjection,
+		attribution: "<br>Karte: <a href=\"http://www.schoenitzer.de/kontakt.html\">Michael F. Schönitzer (Report bugs and missing locations)</a><br><a href=\"./Code.tar.gz\">Source-Code</a><br><center><a href=\"http://flattr.com/thing/54739/Die-Augustkarte\" target=\"_blank\"><img src=\"http://api.flattr.com/button/button-compact-static-100x17.png\" alt=\"Flattr this\" title=\"Flattr this\" border=\"0\" style=\"margin-left: 0px\"/></center></a>"
+	      });
+	map.addLayer(august);
+
+	// Add overlay for Mikro-Brewerys tagged locations
+	var mikro = new OpenLayers.Layer.GML("Hausbrauereien", "mikro.kml", 
+	  {
+            format: OpenLayers.Format.KML, 
+            projection: map.displayProjection,
+	    visibility: false,
+            formatOptions: {
+                  extractStyles: true, 
+                  extractAttributes: true
+			   }
+	  });
+	map.addLayer(mikro);
+
+
+	//Doesn't work:
+	//map.getControlsByClass(new OpenLayers.Control.Attribution).moveTo({100, 100});
+
+	// set default position and zoom level
+	var lonLat = new OpenLayers.LonLat(11.5891,48.1468).transform(
+	      map.displayProjection, map.projection );
+	map.setCenter(lonLat,12);
+
+      }	    // end of function init()
+
+      // -->
+    </script>
+  
+  </head>
+
+  <body onload="init()">
+    <div id="map" style="margin:12px;"></div>
+
+	<!--Anormal-tracker:-->
+	<!-- BEGINN anormal-tracker.de V2.5 CODE -->
+	<script type="text/javascript"><!--
+	var user=39422;
+	var zusatz="&amp;type=nopic";
+	//--></script><script type="text/javascript" src="http://anormal-tracker.de/tracker.js"></script>
+	<noscript><a href='http://anormal-tracker.de/openstat.php?userid=39422' target='_blank'><img border='0' alt="Liste der Himmelskörper" title="Liste der Himmelskörper" src='http://anormal-tracker.de/countv2.php?type=nopic&amp;user=39422'></a></noscript>
+	<!-- ENDE anormal-tracker.de V2.5 CODE -->
+  </body>
+</html>
+

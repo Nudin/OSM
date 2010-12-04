@@ -1,0 +1,38 @@
+<?xml version='1.0' standalone='no'?>
+<osm version='0.6' generator='xapi: OSM Extended API 2.0' xmlns:xapi='http://www.informationfreeway.org/xapi/0.6' xapi:uri='/api/0.6/node[beer=*]' xapi:planetDate='20100928' xapi:copyright='2010 OpenStreetMap contributors' xapi:license='Creative commons CC-BY-SA 2.0' xapi:bugs='For assistance or to report bugs contact 80n80n@gmail.com' xapi:instance='zappyOsm'>
+  <node id='595463713' lat='45.4673091' lon='-122.7130754' user='DaveHansen' timestamp='2009-12-17T23:31:21Z' uid='186300' version='1' changeset='3397578'>
+    <tag k='beer' v='yes'/>
+    <tag k='lots_of_beer' v='really'/>
+    <tag k='name' v='John&apos;s Marketplace'/>
+    <tag k='shoe_polish' v='yes, but as a cover for selling beer'/>
+    <tag k='shop' v='supermarket'/>
+  </node>
+  <node id='596774945' lat='51.3378296' lon='12.3727059' user='stw1701' timestamp='2010-09-23T21:44:17Z' uid='102899' version='2' changeset='5858253'>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='beer' v='Sternquell'/>
+    <tag k='cuisine' v='italian'/>
+    <tag k='name' v='La Grotta'/>
+  </node>
+  <node id='843798280' lat='48.1499124' lon='11.5348099' user='Pirat Michi' timestamp='2010-08-07T09:11:21Z' uid='65148' version='2' changeset='5422932'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='11'/>
+    <tag k='addr:postcode' v='80634'/>
+    <tag k='addr:street' v='Schlörstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='beer' v='no'/>
+    <tag k='contact:email' v='info ät kochwerkstatt-neuhausen.de'/>
+    <tag k='contact:phone' v='089 12021360'/>
+    <tag k='contact:website' v='http://www.kochwerkstatt-neuhausen.de/'/>
+    <tag k='cuisine' v='international'/>
+    <tag k='name' v='Kochwerkstatt'/>
+    <tag k='opening_hours' v='Mo-Fr 10:00-16:00'/>
+    <tag k='vegan' v='no'/>
+    <tag k='wheelchair' v='no'/>
+  </node>
+  <node id='821544381' lat='48.1130458' lon='11.5772374' user='chan' timestamp='2010-07-17T08:27:39Z' uid='18015' version='1' changeset='5240393'>
+    <tag k='amenity' v='fast_food'/>
+    <tag k='beer' v='yes'/>
+    <tag k='cuisine' v='pizza'/>
+  </node>
+</osm>

@@ -1,0 +1,11 @@
+<presets>
+  <item name="Kleider-Geschäft" icon="styles/standard/shop/clothes.png" type="node,closedway">
+    <label text="Klamottenschop einzeichnen." />
+
+    <key key="shop" value="clothes" />
+    <text key="name" text="Name" />
+    <text key="opening_hours" text="Öffnungszeiten" />
+    
+  </item>
+
+</presets>

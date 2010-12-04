@@ -1,0 +1,10 @@
+<presets>
+  <item name="Mate" icon="mate.png" type="node,closedway">
+    <label text="Mate-Quelle einzeichnen." />
+
+    <text key="name" text="Name der Quelle" />
+    
+    <combo key="drink:club-mate" text="Type" values="yes,retail,serve" display_values="Ja, Verkauf, Serviert" default="yes"  delete_if_empty="true" />
+    
+  </item>
+</presets>

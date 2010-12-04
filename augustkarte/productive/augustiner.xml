@@ -1,0 +1,1405 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='xapi: OSM Extended API 2.0' attribution='http://wiki.openstreetmap.org/wiki/Attribution' xmlns:xapi='http://www.informationfreeway.org/xapi/0.6' xapi:uri='/api/0.6/node[brewery=Augustiner]' xapi:planetDate='20101126' xapi:copyright='2010 OpenStreetMap contributors' xapi:license='Creative commons CC-BY-SA 2.0' xapi:bugs='For assistance or to report bugs contact 80n80n@gmail.com' xapi:instance='xapiTela'>
+<bounds minlat='-90' minlon='-180' maxlat='90' maxlon='180'/>
+  <node id='901804851' lat='52.5138083' lon='13.391068' version='1' changeset='5712933' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-07T22:56:03Z'>
+    <tag k='addr:city' v='Berlin'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='55'/>
+    <tag k='addr:postcode' v='10117'/>
+    <tag k='addr:street' v='Charlottenstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:email' v='info ät augustiner-braeu-berlin.de'/>
+    <tag k='contact:phone' v='030 20 45 40 20'/>
+    <tag k='contact:website' v='www.augustiner-braeu-berlin.de'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='name' v='Augustiner am Gendarmenmarkt'/>
+    <tag k='opening_hours' v='Mo-Su 10:00-01:00'/>
+    <tag k='phone' v='030 20 45 40 20'/>
+    <tag k='website' v='www.augustiner-braeu-berlin.de'/>
+  </node>
+  <node id='845855082' lat='49.7819804' lon='9.5091152' version='2' changeset='5656175' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-01T18:37:11Z'>
+    <tag k='addr:city' v='Wertheim-Bestenheid'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='2'/>
+    <tag k='addr:postcode' v='97877'/>
+    <tag k='addr:street' v='Carl-Jacob-Kolb-Weg'/>
+    <tag k='amenity' v='biergarten'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='capacity' v='400'/>
+    <tag k='contact:fax' v='09342 878-195'/>
+    <tag k='contact:phone' v='09342 878-333'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='name' v='Löwenbiergarten'/>
+    <tag k='opening_hours' v='May-Sep 11:00-23:00'/>
+  </node>
+  <node id='506457168' lat='47.9480396' lon='10.3959144' version='4' changeset='5658433' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-01T23:56:25Z'>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='cuisine' v='regional'/>
+    <tag k='name' v='Schwarzer Adler'/>
+  </node>
+  <node id='676647303' lat='48.0058997' lon='10.5951761' version='2' changeset='5713261' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-08T00:15:05Z'>
+    <tag k='addr:city' v='Bad Wörishofen'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='14'/>
+    <tag k='addr:postcode' v='86825'/>
+    <tag k='addr:street' v='Hauptstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:phone' v='08247 5397'/>
+    <tag k='cuisine' v='bavarian; swabian'/>
+    <tag k='name' v='Rössle'/>
+    <tag k='opening_hours' v='Mo-Su 10:00-24:00'/>
+  </node>
+  <node id='966192103' lat='48.0676346' lon='11.2007919' version='1' changeset='6185696' user='traveler-hiker' uid='325837' visible='true' timestamp='2010-10-26T19:19:15Z'>
+    <tag k='addr:city' v='Steinebach am Wörthsee'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='1'/>
+    <tag k='addr:postcode' v='82237'/>
+    <tag k='addr:street' v='Seepromenade'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:email' v='info ät augustiner-woerthsee.de'/>
+    <tag k='contact:fax' v='08153 990369'/>
+    <tag k='contact:phone' v='08153 990366'/>
+    <tag k='contact:website' v='www.augustiner-woerthsee.de'/>
+    <tag k='cuisine' v='regional'/>
+    <tag k='name' v='Augustiner am Wörthsee'/>
+    <tag k='opening_hours' v='Mo-Su 10:00-24:00'/>
+    <tag k='wheelchair' v='yes'/>
+  </node>
+  <node id='297573829' lat='47.998318' lon='11.1775474' version='4' changeset='5713243' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-08T00:10:49Z'>
+    <tag k='addr:city' v='Herrsching am Ammersee'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='1'/>
+    <tag k='addr:postcode' v='82211'/>
+    <tag k='addr:street' v='Andechsstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='08152 396278'/>
+    <tag k='contact:phone' v='08152 396270'/>
+    <tag k='contact:website' v='www.hotelzurpost-herrsching.de'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='name' v='Hotel-Gasthof Zur Post'/>
+    <tag k='opening_hours' v='Mo-Su 11:00-23:00'/>
+  </node>
+  <node id='845842210' lat='47.5047988' lon='9.7479694' version='3' changeset='5713372' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-08T00:44:10Z'>
+    <tag k='addr:city' v='Bregenz'/>
+    <tag k='addr:country' v='AT'/>
+    <tag k='addr:housenumber' v='5'/>
+    <tag k='addr:postcode' v='6900'/>
+    <tag k='addr:street' v='Kornmarktstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:email' v='salzgeber@kornmesser.at'/>
+    <tag k='contact:phone' v='+43/5574/54854'/>
+    <tag k='contact:website' v='www.kornmesser.at'/>
+    <tag k='cuisine' v='regional'/>
+    <tag k='name' v='Kornmesser'/>
+    <tag k='note' v='Kein Ruhetag während der Sommer-Monate und Festspielzeit!'/>
+    <tag k='opening_hours' v='Tu-Su 09:30-24:00'/>
+  </node>
+  <node id='479154506' lat='47.7322619' lon='10.311031' version='5' changeset='5658422' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-01T23:51:38Z'>
+    <tag k='addr:housenumber' v='44'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='name' v='Takobo'/>
+  </node>
+  <node id='751178354' lat='47.7146414' lon='10.3111672' version='2' changeset='5658422' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-01T23:51:38Z'>
+    <tag k='amenity' v='pub'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='name' v='Club'/>
+  </node>
+  <node id='484790639' lat='47.6441856' lon='10.3669074' version='2' changeset='5658422' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-01T23:51:39Z'>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='name' v='Rottachstubn'/>
+  </node>
+  <node id='955322036' lat='47.6770172' lon='11.2008292' version='2' changeset='6133243' user='wheelmap_visitor' uid='290680' visible='true' timestamp='2010-10-22T11:29:06Z'>
+    <tag k='addr:city' v='Murnau'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='16'/>
+    <tag k='addr:postcode' v='82418'/>
+    <tag k='addr:street' v='Untermarkt'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='08841 672959'/>
+    <tag k='contact:phone' v='08841 628667'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='name' v='Augustiner Bräustüberl'/>
+    <tag k='note' v='FIXME: Possision guessed'/>
+    <tag k='opening_hours' v='Fr-We 09:00-24:00'/>
+    <tag k='phone' v='08841 628667'/>
+    <tag k='smoking' v='no'/>
+    <tag k='wheelchair' v='limited'/>
+  </node>
+  <node id='955335166' lat='49.0338257' lon='11.4745657' version='2' changeset='6085994' user='xybot' uid='70696' visible='true' timestamp='2010-10-18T19:36:30Z'>
+    <tag k='addr:city' v='Beilngries'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='7'/>
+    <tag k='addr:postcode' v='92339'/>
+    <tag k='addr:street' v='Hauptstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:email' v='info@gasthof-stern.net'/>
+    <tag k='contact:fax' v='08461/606879'/>
+    <tag k='contact:phone' v='08461/606878'/>
+    <tag k='contact:website' v='www.gasthof-stern.net'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='name' v='Gasthof Stern'/>
+    <tag k='opening_hours' v='Tu-Su 09:30+'/>
+    <tag k='phone' v='08461/606878'/>
+    <tag k='smoking' v='no'/>
+    <tag k='website' v='www.gasthof-stern.net'/>
+  </node>
+  <node id='659669796' lat='49.0174753' lon='12.0940392' version='5' changeset='5797995' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-16T18:35:57Z'>
+    <tag k='addr:city' v='Regensburg'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='10'/>
+    <tag k='addr:postcode' v='93047'/>
+    <tag k='addr:street' v='Spiegelgasse'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:email' v='info@goldenes-fass-regensburg,de'/>
+    <tag k='contact:fax' v='0160/96233712'/>
+    <tag k='contact:phone' v='0941/59939888'/>
+    <tag k='contact:website' v='www.goldenes-fass-regensburg.de'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='name' v='Goldenes Faß'/>
+    <tag k='phone' v='0941/59939888'/>
+    <tag k='url' v='www.goldenes-fass-regensburg.de'/>
+    <tag k='website' v='www.goldenes-fass-regensburg.de'/>
+    <tag k='wheelchair' v='yes'/>
+  </node>
+  <node id='760280460' lat='48.5404336' lon='12.1534116' version='6' changeset='6408027' user='FvGordon' uid='161619' visible='true' timestamp='2010-11-19T15:52:37Z'>
+    <tag k='addr:city' v='Landshut'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='739'/>
+    <tag k='addr:street' v='Isartgestade'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='+49 871 28578'/>
+    <tag k='contact:phone' v='+49 871 28588'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='name' v='Zur Schleuse'/>
+    <tag k='opening_hours' v='Winter: Mo-Su 10:00–01:00; Summer: Mo-Su 09:00–23:00'/>
+  </node>
+  <node id='828902380' lat='48.540434' lon='12.153312' version='6' changeset='6435643' user='Bengatzer' uid='89943' visible='true' timestamp='2010-11-22T22:08:50Z'>
+    <tag k='addr:city' v='Landshut'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='739'/>
+    <tag k='addr:street' v='Isartgestade'/>
+    <tag k='amenity' v='biergarten'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='+49 871 28578'/>
+    <tag k='contact:phone' v='+49 871 28588'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='name' v='Zur Schleuse'/>
+    <tag k='opening_hours' v='Mo-Su 09:00-23:00'/>
+  </node>
+  <node id='540307188' lat='48.5344339' lon='12.1518481' version='6' changeset='6408027' user='FvGordon' uid='161619' visible='true' timestamp='2010-11-19T15:52:06Z'>
+    <tag k='addr:city' v='Landshut'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='251'/>
+    <tag k='addr:postcode' v='84028'/>
+    <tag k='addr:street' v='Kirchgasse'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='+49 871 4305623'/>
+    <tag k='contact:phone' v='+49 871 4305624'/>
+    <tag k='contact:website' v='www.augustiner-landshut.de'/>
+    <tag k='cuisine' v='regional'/>
+    <tag k='name' v='Augustiner an der St. Martinskirche'/>
+  </node>
+  <node id='389926841' lat='48.1763972' lon='11.4613721' version='5' changeset='5711428' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-07T19:45:52Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='87'/>
+    <tag k='addr:postcode' v='80999'/>
+    <tag k='addr:street' v='Von-Kahr-Straße'/>
+    <tag k='amenity' v='biergarten'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='089 8120571'/>
+    <tag k='contact:phone' v='089 81010'/>
+    <tag k='contact:website' v='www.inselmuehle-muenchen.com'/>
+    <tag k='name' v='Inselmühle'/>
+  </node>
+  <node id='389926844' lat='48.1766292' lon='11.4620984' version='7' changeset='5711428' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-07T19:45:43Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='87'/>
+    <tag k='addr:postcode' v='80999'/>
+    <tag k='addr:street' v='Von-Kahr-Straße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='089 8120571'/>
+    <tag k='contact:phone' v='089 81010'/>
+    <tag k='contact:website' v='www.inselmuehle-muenchen.com'/>
+    <tag k='cuisine' v='german'/>
+    <tag k='name' v='Inselmühle'/>
+    <tag k='opening_hours' v='Mo-Su 11:00-23:00'/>
+  </node>
+  <node id='417325164' lat='48.168726' lon='11.4582402' version='5' changeset='5691430' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-05T19:10:38Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='39'/>
+    <tag k='addr:postcode' v='81247'/>
+    <tag k='addr:street' v='Dorfstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:phone' v='089/8111590'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='name' v='Alter Wirt Obermenzing'/>
+    <tag k='opening_hours' v='Mo-Su 09:00-00:00'/>
+    <tag k='website' v='http://www.alterwirt-obermenzing.de/'/>
+  </node>
+  <node id='435590944' lat='48.1642715' lon='11.4759613' version='4' changeset='5711428' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-07T19:46:13Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='47'/>
+    <tag k='addr:postcode' v='81247'/>
+    <tag k='addr:street' v='Verdistraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='name' v='Zum grünen Baum'/>
+  </node>
+  <node id='955063301' lat='48.1651353' lon='11.5121375' version='1' changeset='6070998' user='tixuwuoz' uid='65148' visible='true' timestamp='2010-10-17T19:46:16Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='19'/>
+    <tag k='addr:postcode' v='80638'/>
+    <tag k='addr:street' v='Volpinistraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='capacity:outdoor' v='150'/>
+    <tag k='contact:phone' v='089/12711233'/>
+    <tag k='contact:website' v='www.molyvos19.de'/>
+    <tag k='cuisine' v='greek'/>
+    <tag k='name' v='Molyvos'/>
+    <tag k='opening_hours' v='Mo-Su 11:00-01:00; Sa 17:00+'/>
+    <tag k='phone' v='089/12711233'/>
+    <tag k='smoking' v='no'/>
+    <tag k='website' v='www.molyvos19.de'/>
+  </node>
+  <node id='336278573' lat='48.178405' lon='11.5214044' version='3' changeset='5656175' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-01T18:37:17Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='11'/>
+    <tag k='addr:postcode' v='80992'/>
+    <tag k='addr:street' v='Feldmochingerstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='capacity' v='100'/>
+    <tag k='capacity:seperated' v='40'/>
+    <tag k='contact:phone' v='089/1402414'/>
+    <tag k='contact:website' v='www.gaststätte-dobmanns.de'/>
+    <tag k='name' v='Dobmann&apos;s'/>
+    <tag k='opening_hours' v='Su-Mo 11:00-01:00; Sa 12:00-01:00'/>
+    <tag k='wheelchair' v='no'/>
+  </node>
+  <node id='845432900' lat='48.1803085' lon='11.5212203' version='2' changeset='5656175' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-01T18:37:18Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='24a'/>
+    <tag k='addr:postcode' v='80992'/>
+    <tag k='addr:street' v='Feldmochinger Straße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:phone' v='089 1496687'/>
+    <tag k='name' v='Augustiner-Stüberl'/>
+    <tag k='note' v='FIXME: Position Guessed'/>
+  </node>
+  <node id='311839525' lat='48.1857196' lon='11.5525482' version='4' changeset='6154026' user='wheelmap_visitor' uid='290680' visible='true' timestamp='2010-10-24T08:38:04Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='81'/>
+    <tag k='addr:postcode' v='80809'/>
+    <tag k='addr:street' v='Moosacher Straße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='brewery:Weizen' v='Franziskaner'/>
+    <tag k='contact:fax' v='089/3519197'/>
+    <tag k='contact:phone' v='089/3514945'/>
+    <tag k='cuisine' v='italian'/>
+    <tag k='name' v='Villa Borghese'/>
+    <tag k='note' v='2 Kegelbahnen, Terasse und Parkplätze vohanden'/>
+    <tag k='opening_hours' v='Mo-Sa 11:30-14:30,17:30-23:30'/>
+    <tag k='wheelchair' v='limited'/>
+  </node>
+  <node id='258931125' lat='48.1683541' lon='11.5162462' version='6' changeset='6072938' user='tixuwuoz' uid='65148' visible='true' timestamp='2010-10-17T23:02:11Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='78'/>
+    <tag k='addr:postcode' v='81827'/>
+    <tag k='addr:street' v='Nederlinger Straße'/>
+    <tag k='amenity' v='biergarten'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:email' v='info@gut-nederling.de'/>
+    <tag k='contact:phone' v='089 14 33 88 74'/>
+    <tag k='contact:website' v='www.gut-nederling.de'/>
+    <tag k='cuisine' v='bavarian;austrian'/>
+    <tag k='name' v='Gut Nederling'/>
+    <tag k='wheelchair' v='yes'/>
+  </node>
+  <node id='295985890' lat='48.1678388' lon='11.5272799' version='7' changeset='5656175' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-01T18:37:18Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='16'/>
+    <tag k='addr:postcode' v='80637'/>
+    <tag k='addr:street' v='Dantestraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='089 15892446'/>
+    <tag k='contact:phone' v='089 15892442'/>
+    <tag k='contact:website' v='www.augustiner-am-dante.com'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='name' v='Augustiner am Dante'/>
+  </node>
+  <node id='204301397' lat='48.1706429' lon='11.5681034' version='10' changeset='5944161' user='burnus' uid='42875' visible='true' timestamp='2010-10-03T13:41:18Z'>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='+49 89 3003304'/>
+    <tag k='contact:phone' v='+49 89 3088966'/>
+    <tag k='contact:website' v='http://www.restaurant-la-villa.de'/>
+    <tag k='cuisine' v='bavarian; brasilian; mexican'/>
+    <tag k='cuisine:vegetarian' v='some'/>
+    <tag k='name' v='La Villa im Bamberger Haus'/>
+    <tag k='opening_hours' v='Su-Th 11:00-01:00; Fr-Sa 11:00-03:00'/>
+  </node>
+  <node id='872164813' lat='48.1932781' lon='11.6148682' version='3' changeset='5656175' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-01T18:37:20Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='62'/>
+    <tag k='addr:postcode' v='80939'/>
+    <tag k='addr:street' v='Georg-Wopfner-Straße'/>
+    <tag k='amenity' v='fast_food'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:email' v='huber@huber-freimann.de'/>
+    <tag k='contact:phone' v='089-3243723'/>
+    <tag k='contact:website' v='www.huber-freimann.de'/>
+    <tag k='name' v='Huber'/>
+    <tag k='opening_hours' v='Mo-Fr 07:00-18:30; Sa 07:00-12:30'/>
+    <tag k='shop' v='butcher'/>
+  </node>
+  <node id='278901866' lat='48.143627' lon='11.417126' version='11' changeset='5788708' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-15T16:31:54Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='7'/>
+    <tag k='addr:postcode' v='81241'/>
+    <tag k='addr:street' v='Gößweinsteinplatz'/>
+    <tag k='amenity' v='biergarten'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='089 872995'/>
+    <tag k='contact:phone' v='089 875581'/>
+    <tag k='contact:website' v='http://www.aubinger-einkehr.de/'/>
+    <tag k='cuisine' v='german'/>
+    <tag k='name' v='Zur Aubinger Einkehr'/>
+    <tag k='opening_hours' v='Mo-Su 10:00-23:00'/>
+  </node>
+  <node id='411918121' lat='48.1438013' lon='11.4170695' version='6' changeset='5656175' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-01T18:37:22Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='7'/>
+    <tag k='addr:postcode' v='81249'/>
+    <tag k='addr:street' v='Gößweinsteinplatz'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='089 872995'/>
+    <tag k='contact:phone' v='089 875581'/>
+    <tag k='contact:website' v='www.aubinger-einkehr.de'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='name' v='Zur Aubinger Einkehr'/>
+    <tag k='opening_hours' v='Mo-Su 09:00-01:00'/>
+  </node>
+  <node id='845220892' lat='48.1441638' lon='11.4580126' version='9' changeset='6053335' user='KLMB' uid='342705' visible='true' timestamp='2010-10-15T23:49:35Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='14'/>
+    <tag k='addr:postcode' v='81241'/>
+    <tag k='addr:street' v='Planegger Straße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='beer_garden' v='yes'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:email' v='info@schweizer-hof.net'/>
+    <tag k='contact:phone' v='+49 89 881840'/>
+    <tag k='contact:website' v='www.schweizer-hof.net'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='name' v='Schweizer Hof'/>
+    <tag k='opening_hours' v='Tu-Su 11:00-23:00'/>
+  </node>
+  <node id='390288093' lat='48.1639498' lon='11.475791' version='3' changeset='5656175' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-01T18:37:23Z'>
+    <tag k='amenity' v='biergarten'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='name' v='Zum grünen Baum'/>
+  </node>
+  <node id='835352352' lat='48.1588454' lon='11.5116437' version='6' changeset='5711428' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-07T19:45:54Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='69'/>
+    <tag k='addr:postcode' v='80638'/>
+    <tag k='addr:street' v='Nördliche Auffahrtsallee'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='089/17998624'/>
+    <tag k='contact:phone' v='089/170470'/>
+    <tag k='contact:website' v='http://www.metzgerwirt-muc.de/'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='name' v='metzgewirt'/>
+    <tag k='opening_hours' v='Mo-Su 10:15-24:15'/>
+    <tag k='wheelchair' v='no'/>
+  </node>
+  <node id='873869412' lat='48.1604244' lon='11.5132624' version='2' changeset='5656175' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-01T18:37:25Z'>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='name' v='Alan&apos;s Kochbar'/>
+  </node>
+  <node id='158738532' lat='48.1496734' lon='11.5112536' version='7' changeset='5737373' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-09T23:28:49Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='1'/>
+    <tag k='addr:postcode' v='80639'/>
+    <tag k='addr:street' v='Hirschgartenallee'/>
+    <tag k='amenity' v='biergarten'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='089 175706'/>
+    <tag k='contact:phone' v='089 172591'/>
+    <tag k='contact:website' v='www.hirschgarten.de'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='name' v='Hirschgarten'/>
+    <tag k='note' v='Europas größter Biergarten'/>
+    <tag k='opening_hours' v='Mo-Su 09:00-24:00'/>
+    <tag k='wheelchair' v='yes'/>
+  </node>
+  <node id='267207877' lat='48.1494519' lon='11.5085565' version='6' changeset='5710925' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-07T18:55:04Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='10'/>
+    <tag k='addr:postcode' v='80639'/>
+    <tag k='addr:street' v='De-la-Paz-Straße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='name' v='Kurgarten'/>
+    <tag k='opening_hours' v='Mo-Su 10:00-24:00'/>
+  </node>
+  <node id='834202285' lat='48.1499345' lon='11.5111929' version='4' changeset='5737373' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-09T23:28:50Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='1'/>
+    <tag k='addr:postcode' v='80639'/>
+    <tag k='addr:street' v='Hirschgartenallee'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='089 175706'/>
+    <tag k='contact:phone' v='089 172591'/>
+    <tag k='contact:website' v='www.hirschgarten.de'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='name' v='Hirschgarten'/>
+    <tag k='opening_hours' v='Mo-Su 09:00-24:00'/>
+    <tag k='wheelchair' v='yes'/>
+  </node>
+  <node id='492756699' lat='48.1544852' lon='11.530035' version='4' changeset='5656175' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-01T18:37:28Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='2'/>
+    <tag k='addr:postcode' v='80634'/>
+    <tag k='addr:street' v='Volkartstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:email' v='Grosswirt@yahoo.de'/>
+    <tag k='contact:phone' v='089 20204888'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='name' v='Großwirt'/>
+    <tag k='opening_hours' v='Mo-Su 11:00-24:00'/>
+  </node>
+  <node id='595765510' lat='48.1532605' lon='11.5339239' version='5' changeset='5656175' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-01T18:37:29Z'>
+    <tag k='addr:housenumber' v='162'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:email' v='kontakt@jagdschloessl-muenchen.de'/>
+    <tag k='contact:fax' v='+49 89 139 980 55'/>
+    <tag k='contact:phone' v='+49 89 168 924 1'/>
+    <tag k='contact:website' v='http://www.jagdschloessl-muenchen.de/'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='name' v='Jagdschlössl'/>
+    <tag k='opening_hours' v='Mo-Su 09:00-00:00'/>
+  </node>
+  <node id='606974977' lat='48.1592411' lon='11.5408434' version='7' changeset='5914989' user='user_5359' uid='5359' visible='true' timestamp='2010-09-29T19:54:26Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='23'/>
+    <tag k='addr:postcode' v='80637'/>
+    <tag k='addr:street' v='Hübnerstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='+49-89-12021320'/>
+    <tag k='contact:phone' v='+49-89-120213-0'/>
+    <tag k='contact:web' v='http://www.neuhauser-augustiner.de/'/>
+    <tag k='name' v='Neuhauser Augustiner'/>
+    <tag k='opening_hours' v='Mo-Su 10:00-01:00'/>
+    <tag k='operator' v='Cornelia Eichmeier'/>
+    <tag k='payment:debit_cards' v='ec'/>
+  </node>
+  <node id='493322055' lat='48.1629146' lon='11.5503808' version='5' changeset='5737373' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-09T23:28:51Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='15'/>
+    <tag k='addr:postcode' v='80637'/>
+    <tag k='addr:street' v='Schwere-Reiter-Straße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='089 14340814'/>
+    <tag k='contact:phone' v='089 1434080'/>
+    <tag k='contact:website' v='www.dasschloss-olympiapark.de'/>
+    <tag k='name' v='Das Schloss'/>
+    <tag k='opening_hours' v='Mo-Su 09:00-01:00'/>
+    <tag k='wheelchair' v='yes'/>
+  </node>
+  <node id='733153637' lat='48.1501348' lon='11.5222511' version='6' changeset='5710761' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-07T18:38:34Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='1'/>
+    <tag k='addr:postcode' v='80639'/>
+    <tag k='addr:street' v='Wälsungenstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='089 18921381'/>
+    <tag k='contact:phone' v='089 18921380'/>
+    <tag k='contact:website' v='www.ewigeslicht.info'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='name' v='Ewiges Licht'/>
+    <tag k='opening_hours' v='Mo-Su 10:30-01:00'/>
+  </node>
+  <node id='365479288' lat='48.148623' lon='11.5339628' version='5' changeset='5656175' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-01T18:37:32Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='37'/>
+    <tag k='addr:postcode' v='80643'/>
+    <tag k='addr:street' v='Donnersbergerstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='089/161020'/>
+    <tag k='contact:phone' v='089/164725'/>
+    <tag k='contact:website' v='www.sappralott.de'/>
+    <tag k='cuisine' v='regional'/>
+    <tag k='name' v='Sappralott'/>
+  </node>
+  <node id='315969659' lat='48.1483232' lon='11.543114' version='5' changeset='5656175' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-01T18:37:33Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='19'/>
+    <tag k='addr:postcode' v='80636'/>
+    <tag k='addr:street' v='Elvirastraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='089/12789913'/>
+    <tag k='contact:phone' v='089/12 32 36 1'/>
+    <tag k='contact:website' v='www.wassermann-muenchen.de'/>
+    <tag k='cuisine' v='international'/>
+    <tag k='name' v='Wassermann'/>
+    <tag k='opening_hours' v='Mu-Su 17:00-01:00; Sa 15:00-01:00'/>
+  </node>
+  <node id='401302833' lat='48.1593696' lon='11.5724543' version='4' changeset='5656175' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-01T18:37:35Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='16'/>
+    <tag k='addr:postcode' v='80796'/>
+    <tag k='addr:street' v='Bauerstraße'/>
+    <tag k='amenity' v='pub'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='089 27779856'/>
+    <tag k='contact:phone' v='089 2714828'/>
+    <tag k='contact:website' v='www.scheidegger-schwabing.de'/>
+    <tag k='cuisine' v='international'/>
+    <tag k='name' v='Scheidegger'/>
+    <tag k='opening_hours' v='Mo-Su 10:00-01:00'/>
+  </node>
+  <node id='266321934' lat='48.1561272' lon='11.5620416' version='5' changeset='5656175' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-01T18:37:36Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='38'/>
+    <tag k='addr:postcode' v='80798'/>
+    <tag k='addr:street' v='Görresstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='089 202095520'/>
+    <tag k='contact:phone' v='089 20209550'/>
+    <tag k='contact:website' v='www.goerreshof.de'/>
+    <tag k='name' v='Görreshof'/>
+    <tag k='opening_hours' v='Mo-Su 11:00-01:00'/>
+  </node>
+  <node id='332791984' lat='48.1536065' lon='11.5638283' version='5' changeset='5656175' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-01T18:37:37Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='20'/>
+    <tag k='addr:postcode' v='80798'/>
+    <tag k='addr:street' v='Schwindstraße'/>
+    <tag k='amenity' v='pub'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='089 32496390'/>
+    <tag k='contact:phone' v='089 32496392'/>
+    <tag k='contact:website' v='www.augustiner-hexenkessel.de'/>
+    <tag k='name' v='Augustiner Hexenkessel'/>
+  </node>
+  <node id='181328634' lat='48.1572364' lon='11.5747755' version='5' changeset='5656175' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-01T18:37:38Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='4b'/>
+    <tag k='addr:postcode' v='80796'/>
+    <tag k='addr:street' v='Elisabethplatz'/>
+    <tag k='amenity' v='biergarten'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:phone' v='089 2713899'/>
+    <tag k='contact:website' v='www.gloeckle-wintergarten.de'/>
+    <tag k='name' v='Wintergarten'/>
+  </node>
+  <node id='345796246' lat='48.1578539' lon='11.5735457' version='5' changeset='6300162' user='wheelmap_visitor' uid='290680' visible='true' timestamp='2010-11-06T16:04:40Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='4'/>
+    <tag k='addr:postcode' v='80796'/>
+    <tag k='addr:street' v='Elisabethstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='089/20061997'/>
+    <tag k='contact:phone' v='089/5438990'/>
+    <tag k='cuisine' v='vietnamese'/>
+    <tag k='name' v='Viet Fun'/>
+    <tag k='opening_hours' v='Mo-Fr 11:00-15:00, 17:00-22:00; Sa 11:00-16:00; Su 13:00-22:00'/>
+    <tag k='wheelchair' v='no'/>
+  </node>
+  <node id='362109054' lat='48.154856' lon='11.5791584' version='5' changeset='5711428' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-07T19:46:02Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='1'/>
+    <tag k='addr:postcode' v='80801'/>
+    <tag k='addr:street' v='Friedrichstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:email' v='info@georgenhof-muenchen.de'/>
+    <tag k='contact:fax' v='089 34077692'/>
+    <tag k='contact:phone' v='089 34077691'/>
+    <tag k='contact:website' v='www.georgenhof-muenchen.de'/>
+    <tag k='name' v='Georgenhof'/>
+    <tag k='opening_hours' v='Mo-Su 08:00-01:00'/>
+  </node>
+  <node id='647081943' lat='48.1573158' lon='11.5747805' version='3' changeset='5656175' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-01T18:37:40Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='4b'/>
+    <tag k='addr:postcode' v='80796'/>
+    <tag k='addr:street' v='Elisabethplatz'/>
+    <tag k='amenity' v='pub'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:phone' v='089 2713899'/>
+    <tag k='contact:website' v='www.gloeckle-wintergarten.de'/>
+    <tag k='name' v='Wintergarten'/>
+    <tag k='opening_hours' v='Mo-Su 10:00-01:00'/>
+  </node>
+  <node id='264014310' lat='48.1498533' lon='11.5642279' version='6' changeset='6069579' user='zarl' uid='29003' visible='true' timestamp='2010-10-17T17:33:10Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='16'/>
+    <tag k='addr:postcode' v='80333'/>
+    <tag k='addr:street' v='Steinheilstraße'/>
+    <tag k='amenity' v='pub'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:phone' v='089 527488'/>
+    <tag k='name' v='Steinheil'/>
+    <tag k='note' v='Bekannt für sehr große Wiener Schnitzel.'/>
+    <tag k='opening_hours' v='Mo-Su 10:00-01:00'/>
+    <tag k='smoking' v='no'/>
+  </node>
+  <node id='388440473' lat='48.1513548' lon='11.5769462' version='5' changeset='5893805' user='KLMB' uid='342705' visible='true' timestamp='2010-09-27T17:31:56Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='78'/>
+    <tag k='addr:postcode' v='80796'/>
+    <tag k='addr:street' v='Türkenstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:phone' v='089 2800235'/>
+    <tag k='name' v='Türkenhof'/>
+  </node>
+  <node id='663545951' lat='48.1481431' lon='11.5753275' version='5' changeset='6175372' user='tixuwuoz' uid='65148' visible='true' timestamp='2010-10-25T16:56:23Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='40'/>
+    <tag k='addr:postcode' v='80333'/>
+    <tag k='addr:street' v='Theresienstraße'/>
+    <tag k='amenity' v='pub'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:phone' v='089/283134'/>
+    <tag k='name' v='Cabane'/>
+    <tag k='opening_hours' v='Mo-Su 19:00-03:00'/>
+  </node>
+  <node id='965038459' lat='48.1481186' lon='11.5753986' version='1' changeset='6175372' user='tixuwuoz' uid='65148' visible='true' timestamp='2010-10-25T16:56:22Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='38'/>
+    <tag k='addr:postcode' v='80333'/>
+    <tag k='addr:street' v='Theresienstraße'/>
+    <tag k='amenity' v='bar'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='brewery:other' v='Becks'/>
+    <tag k='contact:phone' v='089284168'/>
+    <tag k='cuisine' v='italian'/>
+    <tag k='name' v='Cafe-Bar Celona'/>
+  </node>
+  <node id='82772298' lat='48.1392055' lon='11.5456469' version='9' changeset='5711428' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-07T19:46:10Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='19'/>
+    <tag k='addr:postcode' v='80339'/>
+    <tag k='addr:street' v='Landsberger Straße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:email' v='AUGUSTINERBRAUSTUBEN@T-ONLINE.DE'/>
+    <tag k='contact:fax' v='089/5022569'/>
+    <tag k='contact:phone' v='089/507047'/>
+    <tag k='contact:website' v='http://www.braeustuben.de'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='name' v='Augustiner Bräustuben'/>
+    <tag k='opening_hours' v='Mo-Su 10:00-24:00'/>
+  </node>
+  <node id='897739278' lat='48.1396548' lon='11.537655' version='2' changeset='5711428' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-07T19:45:53Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='73'/>
+    <tag k='addr:postcode' v='80339'/>
+    <tag k='addr:street' v='Landsbergerstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:email' v='Falk.Heinicke ät t-online.de'/>
+    <tag k='contact:fax' v='089/5004005'/>
+    <tag k='contact:phone' v='089/5004050'/>
+    <tag k='contact:website' v='www.bergmannshof.net'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='name' v='Bergmannshof'/>
+    <tag k='opening_hours' v='Mo-Fr 11:30-14:30, 17:00-01:00; Sa-Su 17:00-01:00'/>
+    <tag k='payment:credit_cards' v='yes'/>
+  </node>
+  <node id='408209218' lat='48.1388546' lon='11.5522574' version='11' changeset='6377477' user='tixuwuoz' uid='65148' visible='true' timestamp='2010-11-15T13:43:47Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='81'/>
+    <tag k='addr:postcode' v='80335'/>
+    <tag k='addr:state' v='Bayern'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='089-54404266'/>
+    <tag k='contact:phone' v='089-533175'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='name' v='Bavaria'/>
+    <tag k='phone' v='089-533175'/>
+    <tag k='smoking' v='isolated'/>
+  </node>
+  <node id='844696052' lat='48.1374408' lon='11.5518086' version='4' changeset='5711428' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-07T19:45:53Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='85a'/>
+    <tag k='addr:postcode' v='80339'/>
+    <tag k='addr:street' v='Schwanthalerstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='089 5439273'/>
+    <tag k='contact:phone' v='089 5439584'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='name' v='Zur Festwiese'/>
+    <tag k='opening_hours' v='Mo-Su 10:00-01:00; während Oktoberfest Mo-Su 07:30-03:00'/>
+  </node>
+  <node id='329125325' lat='48.1318929' lon='11.5437491' version='6' changeset='5710761' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-07T18:38:43Z'>
+    <tag k='amenity' v='biergarten'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:email' v='info@kongressgarten.de'/>
+    <tag k='contact:fax' v='089/45211674'/>
+    <tag k='contact:phone' v='089/45211673'/>
+    <tag k='contact:website' v='http://www.kongressgarten.de/'/>
+    <tag k='name' v='Kongress Garten'/>
+    <tag k='opening_hours' v='Mo-Su 10:00-24:00'/>
+  </node>
+  <node id='337484408' lat='48.1341809' lon='11.5401557' version='2' changeset='6458863' user='tixuwuoz' uid='65148' visible='true' timestamp='2010-11-26T00:17:35Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='25'/>
+    <tag k='addr:postcode' v='80339'/>
+    <tag k='addr:street' v='Ganghoferstraße'/>
+    <tag k='amenity' v='fast_food'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='cuisine' v='kebab'/>
+    <tag k='name' v='Buffet Midi'/>
+  </node>
+  <node id='367787214' lat='48.1359951' lon='11.5375122' version='4' changeset='5690726' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-05T18:10:40Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='33'/>
+    <tag k='addr:street' v='Bergmannstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:email' v='info@augustiner-buergerheim.de'/>
+    <tag k='contact:fax' v='089/76701114'/>
+    <tag k='contact:phone' v='089/503263'/>
+    <tag k='contact:website' v='www.augustiner-buergerheim.de'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='name' v='Augustiner Bürgerheim'/>
+    <tag k='opening_hours' v='Mo-Su 10:00-01:00'/>
+  </node>
+  <node id='829476403' lat='48.1365681' lon='11.5562585' version='3' changeset='5656175' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-01T18:37:47Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='56'/>
+    <tag k='addr:postcode' v='80336'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:phone' v='089 535280‎'/>
+    <tag k='name' v='Augustiner Grill'/>
+    <tag k='smoking' v='no'/>
+  </node>
+  <node id='358182679' lat='48.1286266' lon='11.5560562' version='7' changeset='6341700' user='krylosz' uid='369480' visible='true' timestamp='2010-11-11T08:16:47Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='32'/>
+    <tag k='addr:postcode' v='80337'/>
+    <tag k='addr:street' v='Lindwurmstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='089 5438484'/>
+    <tag k='contact:phone' v='089 534638'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='name' v='Lindwurmstüberl'/>
+    <tag k='opening_hours' v='Mo-Sa 09:30-24:00'/>
+  </node>
+  <node id='664497409' lat='48.1300657' lon='11.557327' version='2' changeset='6422991' user='tixuwuoz' uid='65148' visible='true' timestamp='2010-11-21T14:20:00Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='4'/>
+    <tag k='addr:postcode' v='80336'/>
+    <tag k='addr:street' v='Mozartstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='brewery:Weizen' v='Herrenbräu'/>
+    <tag k='brewery:pils' v='König Pilsner'/>
+    <tag k='contact:email' v='info ät sinans.de'/>
+    <tag k='contact:fax' v='089/51657721'/>
+    <tag k='contact:phone' v='089/51563784'/>
+    <tag k='contact:website' v='http://www.sinans.de/'/>
+    <tag k='cuisine' v='italian;asian'/>
+    <tag k='name' v='Sinans Cafe Cucina Bar'/>
+    <tag k='opening_hours' v='Mo-Su 07:00-01:00'/>
+    <tag k='payment:credit_cards' v='no'/>
+    <tag k='payment:debit_cards' v='ec'/>
+    <tag k='phone' v='089/51563784'/>
+    <tag k='website' v='http://www.sinans.de/'/>
+  </node>
+  <node id='359740043' lat='48.1210574' lon='11.5438623' version='12' changeset='5711428' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-07T19:45:55Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='24'/>
+    <tag k='addr:postcode' v='81371'/>
+    <tag k='addr:street' v='Alramstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='089 7259339'/>
+    <tag k='contact:phone' v='089 7470925'/>
+    <tag k='contact:website' v='http://www.sendlinger-augustiner.de/'/>
+    <tag k='name' v='Sendlinger Augustiner'/>
+    <tag k='opening_hours' v='Mo-Su 10:00-01:00'/>
+    <tag k='smoking' v='isolated'/>
+    <tag k='website' v='http://www.sendlinger-augustiner.de/'/>
+  </node>
+  <node id='295993624' lat='48.1382017' lon='11.5739845' version='11' changeset='5885620' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-26T20:42:07Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='8'/>
+    <tag k='addr:postcode' v='80331'/>
+    <tag k='addr:street' v='Frauenplatz'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:email' v='info@augustineramdom.de'/>
+    <tag k='contact:fax' v='089/23238394'/>
+    <tag k='cuisine' v='regional'/>
+    <tag k='name' v='Augustiner am Dom'/>
+    <tag k='note' v='Fahrstuhl, aber kleine Klos ohne Griffe, daher nicht behindertengerecht.'/>
+    <tag k='opening_hours' v='Mo-Su 10:00-24:00'/>
+    <tag k='phone' v='089/23238480'/>
+    <tag k='website' v='http://www.augustineramdom.de/'/>
+    <tag k='wheelchair' v='no'/>
+  </node>
+  <node id='344500028' lat='48.1375337' lon='11.5794695' version='6' changeset='6444539' user='okilimu' uid='212111' visible='true' timestamp='2010-11-24T06:44:27Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='5'/>
+    <tag k='addr:postcode' v='80331'/>
+    <tag k='addr:street' v='Orlandostraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:email' v='info@augustiner-wirtschaft.de'/>
+    <tag k='contact:fax' v='089/21113577'/>
+    <tag k='contact:phone' v='089/2111356'/>
+    <tag k='contact:website' v='www.augustiner-wirtschaft.de'/>
+    <tag k='cuisine' v='regional'/>
+    <tag k='name' v='Augustiner am Platzl'/>
+    <tag k='opening_hours' v='Mo-Su 10:00-24:00'/>
+    <tag k='source' v='survey'/>
+  </node>
+  <node id='559536142' lat='48.1384103' lon='11.5690489' version='9' changeset='5845198' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-22T12:37:35Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='27'/>
+    <tag k='addr:postcode' v='80331'/>
+    <tag k='addr:street' v='Neuhauser Straße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:email' v='mail@augustiner-restaurant.com'/>
+    <tag k='contact:fax' v='089 / 260 53 79'/>
+    <tag k='contact:phone' v='089 / 23 183-257'/>
+    <tag k='contact:website' v='http://www.augustiner-restaurant.com/home/augustiner_restaurant.html'/>
+    <tag k='name' v='Augustiner Bierhalle'/>
+    <tag k='wheelchair' v='yes'/>
+  </node>
+  <node id='559536511' lat='48.138061' lon='11.5708686' version='7' changeset='5845198' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-22T12:37:35Z'>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='name' v='Italian Connection'/>
+  </node>
+  <node id='651500971' lat='48.1381983' lon='11.5741464' version='6' changeset='6447789' user='okilimu' uid='212111' visible='true' timestamp='2010-11-24T15:46:21Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='9'/>
+    <tag k='addr:postcode' v='80331'/>
+    <tag k='addr:street' v='Frauenplatz'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:email' v='info@bratwurst-gloeckl.de'/>
+    <tag k='contact:fax' v='089/2904736'/>
+    <tag k='contact:phone' v='089/2919450'/>
+    <tag k='contact:website' v='http://www.bratwurst-gloeckl.de/'/>
+    <tag k='cuisine' v='regional'/>
+    <tag k='name' v='Nürnberger Bratwurst Glöckl am Dom'/>
+    <tag k='note' v='FIXME Position guessed'/>
+    <tag k='opening_hours' v='Mo-Sa 10:00-01:00; Su,PH 10:00-23:00'/>
+    <tag k='phone' v='089/2919450'/>
+    <tag k='website' v='http://www.bratwurst-gloeckl.de/'/>
+  </node>
+  <node id='997857050' lat='48.1357076' lon='11.5585278' version='1' changeset='6422991' user='tixuwuoz' uid='65148' visible='true' timestamp='2010-11-21T14:19:58Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='34'/>
+    <tag k='addr:postcode' v='80336'/>
+    <tag k='addr:street' v='Goethestraße'/>
+    <tag k='amenity' v='bar'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='name' v='GAP'/>
+    <tag k='opening_hours' v='Mo-Fr 09:00-01:00; Sa-Su 19:00-01:00'/>
+  </node>
+  <node id='997857061' lat='48.1318987' lon='11.5582663' version='1' changeset='6422991' user='tixuwuoz' uid='65148' visible='true' timestamp='2010-11-21T14:19:58Z'>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:phone' v='089/5309321'/>
+    <tag k='contact:website' v='http://www.halongrestaurant.de'/>
+    <tag k='cuisine' v='vietnamese'/>
+    <tag k='name' v='Ha Long'/>
+    <tag k='opening_hours' v='Mo-Fr 11:30-14:30, 17:30-23:00; Sa-Su 17:30-23:00'/>
+    <tag k='operator' v='Dr. Thi Phung Hoàng &amp; Minh-Khai Phan-Thi'/>
+    <tag k='phone' v='089/5309321'/>
+    <tag k='smoking' v='no'/>
+  </node>
+  <node id='251873705' lat='48.1329006' lon='11.5782249' version='9' changeset='5710761' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-07T18:38:46Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='17'/>
+    <tag k='addr:postcode' v='80469'/>
+    <tag k='addr:street' v='Klenzestraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='089 21578014'/>
+    <tag k='contact:phone' v='089 2285795'/>
+    <tag k='contact:website' v='www.klenze17.de'/>
+    <tag k='name' v='Klenze 17'/>
+    <tag k='opening_hours' v='Su-Th 18:00-01:00; Fr-Sa 18:00-03:00'/>
+  </node>
+  <node id='342930153' lat='48.1347401' lon='11.5730324' version='6' changeset='6444539' user='okilimu' uid='212111' visible='true' timestamp='2010-11-24T06:44:28Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='1'/>
+    <tag k='addr:postcode' v='80331'/>
+    <tag k='addr:street' v='Sankt-Jakobs-Platz'/>
+    <tag k='amenity' v='cafe'/>
+    <tag k='beer_brand' v='Augustiner'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='name' v='Stadtcafé'/>
+    <tag k='opening_hours' v='Mo-Th,Su 10:00-24:00; Fr-Sa 10:00-01:00'/>
+    <tag k='phone' v='+49 89 266949'/>
+    <tag k='website' v='http://www.stadtcafe-muenchen.de/'/>
+  </node>
+  <node id='409497567' lat='48.1313532' lon='11.5713547' version='7' changeset='6269082' user='Ogmios' uid='81983' visible='true' timestamp='2010-11-02T16:16:31Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='30'/>
+    <tag k='addr:postcode' v='80469'/>
+    <tag k='addr:street' v='Müllerstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='cuisine' v='international'/>
+    <tag k='cuisine:vegetarian' v='some (mostly labeled)'/>
+    <tag k='email' v='info@moro-munich.com'/>
+    <tag k='fax' v='+49 89 23002994'/>
+    <tag k='name' v='moro'/>
+    <tag k='opening_hours' v='Mo-Fr 17:00-01:00; Sa 12:00-01:00; Su 11:00-01:00'/>
+    <tag k='operator' v='Die Wirtshausbar MORO GmbH'/>
+    <tag k='phone' v='+49 89 23002992'/>
+    <tag k='website' v='http://moro-munich.de'/>
+  </node>
+  <node id='447786272' lat='48.1356466' lon='11.5775839' version='9' changeset='6023399' user='KLMB' uid='342705' visible='true' timestamp='2010-10-12T18:17:05Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='2'/>
+    <tag k='addr:postcode' v='80331'/>
+    <tag k='addr:street' v='Heiliggeiststraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:email' v='info@marktwirt.com'/>
+    <tag k='contact:fax' v='089/24205886'/>
+    <tag k='contact:phone' v='089/23241133'/>
+    <tag k='contact:website' v='www.marktwirt.com'/>
+    <tag k='cuisine' v='regional'/>
+    <tag k='name' v='Marktwirt'/>
+    <tag k='opening_hours' v='Mo-Su 10:00+'/>
+    <tag k='website' v='http://www.marktwirt.com/'/>
+  </node>
+  <node id='291364468' lat='48.1398202' lon='11.58994' version='15' changeset='5710925' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-07T18:55:09Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='6'/>
+    <tag k='addr:postcode' v='80538'/>
+    <tag k='addr:street' v='Tattenbachstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='email' v='info@tattenbach.de'/>
+    <tag k='name' v='Tattenbach'/>
+    <tag k='opening_hours' v='Mo-Fr 11:00-01:00; Sa-Su 17:00-01:00'/>
+    <tag k='phone' v='+49 89 225268'/>
+    <tag k='website' v='http://www.tattenbach.de'/>
+  </node>
+  <node id='832629445' lat='48.138144' lon='11.5803687' version='3' changeset='5782958' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-14T22:37:32Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='4'/>
+    <tag k='addr:postcode' v='80331'/>
+    <tag k='addr:street' v='Platzl'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='089 21669025'/>
+    <tag k='contact:phone' v='089 232387180'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='name' v='Schuhbecks Orlando'/>
+    <tag k='opening_hours' v='09:00-02:00'/>
+    <tag k='wheelchair' v='yes'/>
+    <tag k='wheelchair:description:de' v='Siehe: http://www.cbf-muenchen.de/lokale-muenchen/lokal/orland1'/>
+  </node>
+  <node id='845404022' lat='48.1379928' lon='11.5811057' version='4' changeset='5885620' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-26T20:42:07Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='5'/>
+    <tag k='addr:postcode' v='80331'/>
+    <tag k='addr:street' v='Neuturmstraße'/>
+    <tag k='amenity' v='nightclub'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='089-54818152'/>
+    <tag k='contact:phone' v='089-54818181'/>
+    <tag k='contact:website' v='http://www.atomic.de/'/>
+    <tag k='name' v='Atomic Café'/>
+    <tag k='opening_hours' v='We-Sa 22:00+'/>
+  </node>
+  <node id='291103849' lat='48.1406998' lon='11.5907529' version='15' changeset='5656175' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-01T18:37:59Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='14'/>
+    <tag k='addr:postcode' v='80538'/>
+    <tag k='addr:street' v='Liebherrstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='email' v='mail@liebighof.de'/>
+    <tag k='fax' v='+49 89 297479'/>
+    <tag k='name' v='Liebighof im Lehel'/>
+    <tag k='opening_hours' v='Mo-Fr 09:30-02:00; Sa-Su 17:00-02:00'/>
+    <tag k='phone' v='+49 89 295405'/>
+    <tag k='website' v='http://www.liebighof.de'/>
+  </node>
+  <node id='274371805' lat='48.1340192' lon='11.5798827' version='10' changeset='5662993' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-02T15:04:10Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='35'/>
+    <tag k='addr:street' v='Rumfordstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:phone' v='089 294876'/>
+    <tag k='name' v='Zwingereck'/>
+  </node>
+  <node id='312859862' lat='48.1348948' lon='11.5837283' version='9' changeset='5656175' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-01T18:38:01Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='2'/>
+    <tag k='addr:postcode' v='80538'/>
+    <tag k='addr:street' v='Kanalstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='email' v='zitzlsperger@gasthaus-isarthor.de'/>
+    <tag k='name' v='Gasthaus Isarthor'/>
+    <tag k='opening_hours' v='Mo-Su 10:00-01:00'/>
+    <tag k='phone' v='+49 89 227753'/>
+    <tag k='website' v='http://www.gasthaus-isarthor.de'/>
+  </node>
+  <node id='844791777' lat='48.1359452' lon='11.586327' version='5' changeset='5656175' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-01T18:38:01Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='1'/>
+    <tag k='addr:postcode' v='80538'/>
+    <tag k='addr:street' v='Mariannenstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='email' v='info@mariannenhof-muenchen.de'/>
+    <tag k='name' v='Mariannenhof'/>
+    <tag k='opening_hours' v='Mo-Su 16:00-01:00'/>
+    <tag k='phone' v='089 25544672'/>
+    <tag k='website' v='www.mariannenhof-muenchen.de'/>
+  </node>
+  <node id='266698099' lat='48.1317784' lon='11.5985112' version='9' changeset='5885620' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-26T20:41:47Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='5'/>
+    <tag k='addr:postcode' v='81667'/>
+    <tag k='addr:street' v='Wörthstraße'/>
+    <tag k='amenity' v='cafe'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='089 487390'/>
+    <tag k='contact:phone' v='089 4891654'/>
+    <tag k='cuisine' v='international'/>
+    <tag k='name' v='Café Voilà'/>
+    <tag k='opening_hours' v='Mo-Su 08:00-01:00'/>
+  </node>
+  <node id='409497569' lat='48.1286095' lon='11.569778' version='8' changeset='6069579' user='zarl' uid='29003' visible='true' timestamp='2010-10-17T17:33:11Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='17'/>
+    <tag k='addr:postcode' v='80469'/>
+    <tag k='addr:street' v='Hans-Sachs-Straße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='089 2606499'/>
+    <tag k='contact:phone' v='089 263798'/>
+    <tag k='contact:website' v='www.augustiner-faun.de'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='name' v='Faun'/>
+    <tag k='opening_hours' v='Su-Th 09:00-01:00; Fr-Sa 09:00-02:00'/>
+    <tag k='smoking' v='no'/>
+  </node>
+  <node id='409497576' lat='48.1264304' lon='11.5688254' version='10' changeset='5690726' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-05T18:10:42Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='21'/>
+    <tag k='addr:postcode' v='80469'/>
+    <tag k='addr:street' v='Baumstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:email' v='info@gaststaette-rumpler.de'/>
+    <tag k='contact:phone' v='089 20009309'/>
+    <tag k='contact:website' v='www.gaststaette-rumpler.de'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='name' v='Rumpler'/>
+    <tag k='opening_hours' v='Mo-Su 11:00-01:00'/>
+  </node>
+  <node id='449283696' lat='48.1269803' lon='11.5719493' version='6' changeset='5710761' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-07T18:38:44Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='32'/>
+    <tag k='addr:postcode' v='80469'/>
+    <tag k='addr:street' v='Westermühlstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='089 20207288'/>
+    <tag k='contact:phone' v='089 20207287'/>
+    <tag k='contact:website' v='www.kreuzi.de'/>
+    <tag k='cuisine' v='regional'/>
+    <tag k='name' v='Kreuzberger'/>
+    <tag k='opening_hours' v='Mo-Su 11:00-01:00'/>
+  </node>
+  <node id='545815043' lat='48.1306222' lon='11.5782776' version='9' changeset='5710761' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-07T18:38:40Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='46'/>
+    <tag k='addr:street' v='Baaderstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:phone' v='089 20019030'/>
+    <tag k='name' v='Burg Pappenheim'/>
+    <tag k='opening_hours' v='Su-Th 17:00-02:00; Fr-Sa 17:00-03:00'/>
+  </node>
+  <node id='834294705' lat='48.1212005' lon='11.557665' version='7' changeset='5710925' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-07T18:55:07Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='1'/>
+    <tag k='addr:postcode' v='80469'/>
+    <tag k='addr:street' v='Reifenstuelstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='089 76701114'/>
+    <tag k='contact:phone' v='089 76701113'/>
+    <tag k='contact:website' v='www.augustiner-mundart.de'/>
+    <tag k='name' v='Mundart'/>
+    <tag k='opening_hours' v='Mo-Su 10:00-01:00'/>
+  </node>
+  <node id='86673907' lat='48.1293796' lon='11.6013837' version='13' changeset='5710761' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-07T18:38:49Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='34'/>
+    <tag k='addr:postcode' v='81667'/>
+    <tag k='addr:street' v='Wörthstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='089 62286407'/>
+    <tag k='contact:phone' v='089 62286215'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='name' v='Haidhauser Augustiner'/>
+    <tag k='opening_hours' v='Mo-Su 10:00-01:00'/>
+    <tag k='phone' v='+49 89 4802594'/>
+    <tag k='smoking' v='no'/>
+  </node>
+  <node id='761462252' lat='48.122629' lon='11.588736' version='8' changeset='5710925' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-07T18:55:05Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='9'/>
+    <tag k='addr:postcode' v='81541'/>
+    <tag k='addr:street' v='Senftlstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:phone' v='089 89058258'/>
+    <tag k='contact:website' v='www.laab-muenchen.de'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='name' v='Laab'/>
+    <tag k='opening_hours' v='Mo-Su 11:00-01:00'/>
+  </node>
+  <node id='897774083' lat='48.1125473' lon='11.5533014' version='4' changeset='5711428' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-07T19:46:05Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='2'/>
+    <tag k='addr:postcode' v='81371'/>
+    <tag k='addr:street' v='Brudermühlstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='capacity' v='400'/>
+    <tag k='contact:fax' v='089/7250215'/>
+    <tag k='contact:phone' v='089/772121'/>
+    <tag k='contact:website' v='http://www.wirtshaus-zum-isartal.de/'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='name' v='Wirtshaus zum Isartal'/>
+    <tag k='opening_hours' v='Mo-Fr 11:00-01:00; Sa-Su 10:00-01:00'/>
+  </node>
+  <node id='897774098' lat='48.1125485' lon='11.5531833' version='3' changeset='5711428' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-07T19:46:13Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='2'/>
+    <tag k='addr:postcode' v='81371'/>
+    <tag k='addr:street' v='Brudermühlstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='blind:description:de' v='Zum Blinden Engel - Essen im Dunkeln'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='089/7250215'/>
+    <tag k='contact:phone' v='089/772121'/>
+    <tag k='contact:website' v='http://www.wirtshaus-zum-isartal.de/'/>
+    <tag k='cuisine' v='blind'/>
+    <tag k='name' v='Zum Blinden Engel'/>
+    <tag k='opening_hours' v='Nur nach Vereinbarung'/>
+  </node>
+  <node id='843257169' lat='48.1050107' lon='11.5624365' version='4' changeset='5711428' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-07T19:45:51Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='76'/>
+    <tag k='addr:postcode' v='81543'/>
+    <tag k='addr:street' v='Schönstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:phone' v='089 62420577'/>
+    <tag k='name' v='Schönhof-Stüberl'/>
+    <tag k='opening_hours' v='Mo-Fr 11:00-01:00; Sa-Su 11:00-21:30'/>
+  </node>
+  <node id='276637019' lat='48.0952661' lon='11.5423941' version='13' changeset='5711428' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-07T19:46:07Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='45'/>
+    <tag k='addr:postcode' v='81379'/>
+    <tag k='addr:street' v='Maria-Einsiedel-Straße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='089 7233270'/>
+    <tag k='contact:phone' v='089 7236373'/>
+    <tag k='contact:website' v='www.asamschloessl.de'/>
+    <tag k='name' v='Asam-Schlössl'/>
+    <tag k='note' v='Alternative schreibweiße: Asam-Schlößl'/>
+    <tag k='opening_hours' v='Mo-Su 11:00-01:00'/>
+  </node>
+  <node id='290722984' lat='48.1173219' lon='11.6554276' version='8' changeset='5711428' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-07T19:46:01Z'>
+    <tag k='addr:city' v='München'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='6'/>
+    <tag k='addr:postcode' v='81825'/>
+    <tag k='addr:street' v='Sankt Augustinus Straße'/>
+    <tag k='amenity' v='pub'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:email' v='info@rokkos.de'/>
+    <tag k='contact:fax' v='089 423230'/>
+    <tag k='contact:phone' v='+40 89 54898175'/>
+    <tag k='contact:website' v='http://www.rokkos.de'/>
+    <tag k='cuisine' v='international'/>
+    <tag k='name' v='Rokko&apos;s'/>
+    <tag k='opening_hours' v='Mo-Su 11:00-01:00'/>
+  </node>
+  <node id='845840627' lat='47.7605666' lon='11.5594008' version='2' changeset='5713362' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-08T00:41:49Z'>
+    <tag k='addr:city' v='Bad Tölz'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='4'/>
+    <tag k='addr:postcode' v='83646'/>
+    <tag k='addr:street' v='Klammergasse'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='08041 799792'/>
+    <tag k='contact:phone' v='08041 70611'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='name' v='Metzgerbräu'/>
+    <tag k='opening_hours' v='Fr-We 09:00-24:00'/>
+  </node>
+  <node id='845838781' lat='47.7590662' lon='11.5838299' version='3' changeset='5656175' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-01T18:38:13Z'>
+    <tag k='addr:city' v='Bad Tölz'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='5'/>
+    <tag k='addr:postcode' v='83646'/>
+    <tag k='addr:street' v='Professor-Max-Lange-Platz'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:phone' v='08041 7934261'/>
+    <tag k='cuisine' v='bavarian; austrian'/>
+    <tag k='name' v='Zur Flintkaserne'/>
+    <tag k='opening_hours' v='Tu-Su 08:00-24:00'/>
+  </node>
+  <node id='294021262' lat='47.7195332' lon='11.9505395' version='5' changeset='5713180' user='Pirat Michi' uid='65148' visible='true' timestamp='2010-09-07T23:55:31Z'>
+    <tag k='addr:city' v='Fischbachau'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='9'/>
+    <tag k='addr:postcode' v='83730'/>
+    <tag k='addr:street' v='Kirchplatz'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='brewery' v='Augustiner'/>
+    <tag k='contact:fax' v='08028 909416'/>
+    <tag k='contact:phone' v='08028 909411'/>
+    <tag k='contact:website' v='www.klosterstueberl.com'/>
+    <tag k='cuisine' v='bavarian'/>
+    <tag k='name' v='Klosterstüberl'/>
+    <tag k='opening_hours' v='Mo-Su 10:00-23:00'/>
+  </node>
+  <relation id='550616' visible='true' timestamp='2010-11-12T21:11:17Z' version='17' changeset='6354284' user='MetiorErgoSum' uid='154663'>
+  </relation>
+</osm>

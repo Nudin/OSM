@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server">
+  <way id="35478420" visible="true" timestamp="2010-08-23T07:36:37Z" version="2" changeset="5568426" user="Zartbitter" uid="40397">
+    <nd ref="416055223"/>
+    <nd ref="416055224"/>
+    <nd ref="416055225"/>
+    <nd ref="416055226"/>
+    <nd ref="416055223"/>
+    <tag k="addr:city" v="Röthenbach bei St. Wolfgang"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="90530"/>
+    <tag k="addr:street" v="Alte Salzstraße"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="beer" v="Kitzmann"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="name" v="Trattoria Massimo"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
+</osm>

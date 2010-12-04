@@ -1,0 +1,385 @@
+<?xml version='1.0' standalone='no'?>
+<osm version='0.6' generator='xapi: OSM Extended API 2.0' xmlns:xapi='http://www.informationfreeway.org/xapi/0.6' xapi:uri='/api/0.6/way[beer=*]' xapi:planetDate='20100928' xapi:copyright='2010 OpenStreetMap contributors' xapi:license='Creative commons CC-BY-SA 2.0' xapi:bugs='For assistance or to report bugs contact 80n80n@gmail.com' xapi:instance='zappyOsm'>
+  <node id='487209008' lat='51.3565312' lon='12.3239415' user='elsaxo' timestamp='2009-09-07T11:45:10Z' uid='53936' version='1' changeset='2401138'>
+  </node>
+  <node id='487208738' lat='51.3565262' lon='12.3238717' user='elsaxo' timestamp='2009-09-07T11:44:57Z' uid='53936' version='1' changeset='2401138'>
+  </node>
+  <node id='487208739' lat='51.3566117' lon='12.3238521' user='elsaxo' timestamp='2009-09-07T11:44:57Z' uid='53936' version='1' changeset='2401138'>
+  </node>
+  <node id='487208746' lat='51.3565863' lon='12.3235498' user='elsaxo' timestamp='2009-09-07T11:44:57Z' uid='53936' version='1' changeset='2401138'>
+  </node>
+  <node id='487208747' lat='51.3566000' lon='12.3235466' user='elsaxo' timestamp='2009-09-07T11:44:57Z' uid='53936' version='1' changeset='2401138'>
+  </node>
+  <node id='487208741' lat='51.3565934' lon='12.3234734' user='elsaxo' timestamp='2009-09-07T11:44:57Z' uid='53936' version='1' changeset='2401138'>
+  </node>
+  <node id='487208742' lat='51.3564924' lon='12.3234968' user='elsaxo' timestamp='2009-09-07T11:44:57Z' uid='53936' version='1' changeset='2401138'>
+  </node>
+  <node id='487208744' lat='51.3564989' lon='12.3235688' user='elsaxo' timestamp='2009-09-07T11:44:57Z' uid='53936' version='1' changeset='2401138'>
+  </node>
+  <node id='487208748' lat='51.3564962' lon='12.3235695' user='elsaxo' timestamp='2009-09-07T11:44:57Z' uid='53936' version='1' changeset='2401138'>
+  </node>
+  <node id='487208749' lat='51.3565089' lon='12.3237010' user='elsaxo' timestamp='2009-09-07T11:44:57Z' uid='53936' version='1' changeset='2401138'>
+  </node>
+  <node id='487208732' lat='51.3565075' lon='12.3237013' user='elsaxo' timestamp='2009-09-07T11:44:56Z' uid='53936' version='1' changeset='2401138'>
+  </node>
+  <node id='487208734' lat='51.3565101' lon='12.3237326' user='elsaxo' timestamp='2009-09-07T11:44:56Z' uid='53936' version='1' changeset='2401138'>
+  </node>
+  <node id='487208735' lat='51.3564666' lon='12.3237416' user='elsaxo' timestamp='2009-09-07T11:44:57Z' uid='53936' version='1' changeset='2401138'>
+  </node>
+  <node id='487208736' lat='51.3564734' lon='12.3238264' user='elsaxo' timestamp='2009-09-07T11:44:57Z' uid='53936' version='1' changeset='2401138'>
+  </node>
+  <node id='487209014' lat='51.3564091' lon='12.3238396' user='elsaxo' timestamp='2009-09-07T11:45:10Z' uid='53936' version='1' changeset='2401138'>
+  </node>
+  <node id='487209006' lat='51.3564194' lon='12.3239679' user='elsaxo' timestamp='2009-09-07T11:45:10Z' uid='53936' version='1' changeset='2401138'>
+  </node>
+  <node id='343510724' lat='50.7620898' lon='15.3028468' user='Petr Dlouhý' timestamp='2009-02-08T19:26:51Z' uid='17615' version='1' changeset='270369'>
+  </node>
+  <node id='343510723' lat='50.7621592' lon='15.3026693' user='Petr Dlouhý' timestamp='2009-02-08T19:26:51Z' uid='17615' version='1' changeset='270369'>
+  </node>
+  <node id='343510784' lat='50.7621771' lon='15.3026869' user='Petr Dlouhý' timestamp='2009-02-08T19:26:58Z' uid='17615' version='1' changeset='270369'>
+  </node>
+  <node id='343510731' lat='50.7621999' lon='15.3026286' user='Petr Dlouhý' timestamp='2009-02-08T19:26:53Z' uid='17615' version='1' changeset='270369'>
+  </node>
+  <node id='343510728' lat='50.7623384' lon='15.3027639' user='Petr Dlouhý' timestamp='2009-02-08T19:26:51Z' uid='17615' version='1' changeset='270369'>
+  </node>
+  <node id='343510727' lat='50.7623137' lon='15.3028271' user='Petr Dlouhý' timestamp='2009-02-08T19:26:51Z' uid='17615' version='1' changeset='270369'>
+  </node>
+  <node id='343510726' lat='50.7624013' lon='15.3029129' user='Petr Dlouhý' timestamp='2009-02-08T19:26:51Z' uid='17615' version='1' changeset='270369'>
+  </node>
+  <node id='343510745' lat='50.7623530' lon='15.3030365' user='Petr Dlouhý' timestamp='2009-02-08T19:26:54Z' uid='17615' version='1' changeset='270369'>
+  </node>
+  <node id='343510742' lat='50.7622668' lon='15.3029523' user='Petr Dlouhý' timestamp='2009-02-08T19:26:54Z' uid='17615' version='1' changeset='270369'>
+  </node>
+  <node id='343510738' lat='50.7622431' lon='15.3030130' user='Petr Dlouhý' timestamp='2009-02-08T19:26:54Z' uid='17615' version='1' changeset='270369'>
+  </node>
+  <node id='343510713' lat='50.7621715' lon='15.3029430' user='Petr Dlouhý' timestamp='2009-02-08T19:26:49Z' uid='17615' version='1' changeset='270369'>
+  </node>
+  <node id='343510754' lat='50.7621851' lon='15.3029083' user='Petr Dlouhý' timestamp='2009-02-08T19:26:55Z' uid='17615' version='1' changeset='270369'>
+  </node>
+  <node id='343510733' lat='50.7621717' lon='15.3028951' user='Petr Dlouhý' timestamp='2009-02-08T19:26:53Z' uid='17615' version='1' changeset='270369'>
+  </node>
+  <node id='343510772' lat='50.7621627' lon='15.3029181' user='Petr Dlouhý' timestamp='2009-02-08T19:26:56Z' uid='17615' version='1' changeset='270369'>
+  </node>
+  <node id='416055223' lat='49.3619783' lon='11.1698308' user='robome' timestamp='2010-05-24T11:22:59Z' uid='81175' version='2' changeset='4792306'>
+  </node>
+  <node id='416055224' lat='49.3620654' lon='11.1698308' user='robome' timestamp='2010-05-24T11:25:21Z' uid='81175' version='2' changeset='4792306'>
+  </node>
+  <node id='416055225' lat='49.3620654' lon='11.1699306' user='robome' timestamp='2010-05-24T11:26:45Z' uid='81175' version='2' changeset='4792306'>
+  </node>
+  <node id='416055226' lat='49.3619783' lon='11.1699306' user='robome' timestamp='2010-05-24T11:22:37Z' uid='81175' version='2' changeset='4792306'>
+  </node>
+  <node id='416852957' lat='49.3607370' lon='11.1699880' user='BurnyB' timestamp='2009-06-07T10:12:35Z' uid='83876' version='1' changeset='1445944'>
+  </node>
+  <node id='416852958' lat='49.3606615' lon='11.1702158' user='BurnyB' timestamp='2009-06-07T10:12:35Z' uid='83876' version='1' changeset='1445944'>
+  </node>
+  <node id='416852959' lat='49.3605390' lon='11.1701201' user='BurnyB' timestamp='2009-06-07T10:12:35Z' uid='83876' version='1' changeset='1445944'>
+  </node>
+  <node id='416852960' lat='49.3606145' lon='11.1698923' user='BurnyB' timestamp='2009-06-07T10:12:35Z' uid='83876' version='1' changeset='1445944'>
+  </node>
+  <node id='332036217' lat='50.1123757' lon='14.3809942' user='Petr Dlouhý' timestamp='2009-01-14T13:51:24Z' uid='17615' version='1' changeset='786155'>
+  </node>
+  <node id='332036218' lat='50.1125010' lon='14.3809892' user='Petr Dlouhý' timestamp='2009-01-14T13:51:24Z' uid='17615' version='1' changeset='786155'>
+  </node>
+  <node id='332036221' lat='50.1125029' lon='14.3811046' user='Petr Dlouhý' timestamp='2009-01-14T13:51:24Z' uid='17615' version='1' changeset='786155'>
+  </node>
+  <node id='332036222' lat='50.1125365' lon='14.3811033' user='Petr Dlouhý' timestamp='2009-01-14T13:51:24Z' uid='17615' version='1' changeset='786155'>
+  </node>
+  <node id='332036223' lat='50.1125415' lon='14.3814113' user='Petr Dlouhý' timestamp='2009-01-14T13:51:24Z' uid='17615' version='1' changeset='786155'>
+  </node>
+  <node id='332036224' lat='50.1123860' lon='14.3814175' user='Petr Dlouhý' timestamp='2009-01-14T13:51:24Z' uid='17615' version='1' changeset='786155'>
+  </node>
+  <node id='332036225' lat='50.1123843' lon='14.3813146' user='Petr Dlouhý' timestamp='2009-01-14T13:51:25Z' uid='17615' version='1' changeset='786155'>
+  </node>
+  <node id='332036226' lat='50.1124361' lon='14.3813126' user='Petr Dlouhý' timestamp='2009-01-14T13:51:25Z' uid='17615' version='1' changeset='786155'>
+  </node>
+  <node id='332036227' lat='50.1124358' lon='14.3812936' user='Petr Dlouhý' timestamp='2009-01-14T13:51:25Z' uid='17615' version='1' changeset='786155'>
+  </node>
+  <node id='332036228' lat='50.1124692' lon='14.3812922' user='Petr Dlouhý' timestamp='2009-01-14T13:51:25Z' uid='17615' version='1' changeset='786155'>
+  </node>
+  <node id='332036229' lat='50.1124684' lon='14.3812433' user='Petr Dlouhý' timestamp='2009-01-14T13:51:25Z' uid='17615' version='1' changeset='786155'>
+  </node>
+  <node id='332036230' lat='50.1124624' lon='14.3812435' user='Petr Dlouhý' timestamp='2009-01-14T13:51:25Z' uid='17615' version='1' changeset='786155'>
+  </node>
+  <node id='332036231' lat='50.1124606' lon='14.3811326' user='Petr Dlouhý' timestamp='2009-01-14T13:51:25Z' uid='17615' version='1' changeset='786155'>
+  </node>
+  <node id='332036232' lat='50.1123780' lon='14.3811359' user='Petr Dlouhý' timestamp='2009-01-14T13:51:25Z' uid='17615' version='1' changeset='786155'>
+  </node>
+  <node id='739451034' lat='48.1441581' lon='11.5508168' user='burt13de' timestamp='2010-05-19T13:21:08Z' uid='247670' version='1' changeset='4748076'>
+  </node>
+  <node id='29181124' lat='48.1446175' lon='11.5509446' user='WosuGer' xapi:users='WosuGer' timestamp='2008-10-08T20:33:11Z' uid='71739' version='22' changeset='187394'>
+  </node>
+  <node id='303157623' lat='48.1441479' lon='11.5524037' user='WosuGer' timestamp='2008-10-08T20:33:11Z' uid='71739' version='3' changeset='187394'>
+  </node>
+  <node id='303157624' lat='48.1440677' lon='11.5523522' user='WosuGer' timestamp='2008-10-08T20:33:12Z' uid='71739' version='3' changeset='187394'>
+  </node>
+  <node id='29181125' lat='48.1439528' lon='11.5527176' user='burt13de' timestamp='2010-05-19T13:19:03Z' uid='247670' version='23' changeset='4748076'>
+  </node>
+  <node id='739451037' lat='48.1437384' lon='11.5526083' user='burt13de' timestamp='2010-05-19T13:21:08Z' uid='247670' version='1' changeset='4748076'>
+  </node>
+  <node id='739448760' lat='48.1432583' lon='11.5523635' user='burt13de' timestamp='2010-05-19T13:19:04Z' uid='247670' version='1' changeset='4748076'>
+  </node>
+  <node id='739448761' lat='48.1432458' lon='11.5524171' user='burt13de' timestamp='2010-05-19T13:19:04Z' uid='247670' version='1' changeset='4748076'>
+  </node>
+  <node id='29181126' lat='48.142904' lon='11.5522589' user='burt13de' timestamp='2010-05-19T13:19:04Z' uid='247670' version='23' changeset='4748076'>
+  </node>
+  <node id='739448729' lat='48.1429297' lon='11.5521368' user='burt13de' timestamp='2010-05-19T13:18:56Z' uid='247670' version='1' changeset='4748076'>
+    <tag k='barrier' v='gate'/>
+  </node>
+  <node id='29181127' lat='48.1432602' lon='11.5505670' user='WosuGer' xapi:users='WosuGer' timestamp='2008-10-08T20:33:13Z' uid='71739' version='41' changeset='187394'>
+  </node>
+  <node id='201430037' lat='48.1438276' lon='11.5519786' user='ludwich' timestamp='2009-06-07T16:35:46Z' uid='9402' version='36' changeset='1449766'>
+  </node>
+  <node id='201430038' lat='48.1437748' lon='11.5522370' user='ludwich' timestamp='2009-06-07T16:35:46Z' uid='9402' version='19' changeset='1449766'>
+  </node>
+  <node id='303160917' lat='48.1437296' lon='11.5522163' user='ludwich' timestamp='2009-06-07T16:35:45Z' uid='9402' version='10' changeset='1449766'>
+  </node>
+  <node id='303160918' lat='48.1436646' lon='11.5525298' user='burt13de' timestamp='2010-05-19T13:18:47Z' uid='247670' version='11' changeset='4748076'>
+  </node>
+  <node id='739448597' lat='48.1435196' lon='11.5524601' user='burt13de' timestamp='2010-05-19T13:18:47Z' uid='247670' version='1' changeset='4748076'>
+  </node>
+  <node id='739448606' lat='48.1435393' lon='11.552385' user='burt13de' timestamp='2010-05-19T13:18:47Z' uid='247670' version='1' changeset='4748076'>
+  </node>
+  <node id='739448619' lat='48.1436306' lon='11.5524225' user='burt13de' timestamp='2010-05-19T13:18:47Z' uid='247670' version='1' changeset='4748076'>
+  </node>
+  <node id='739448629' lat='48.1436485' lon='11.5523313' user='burt13de' timestamp='2010-05-19T13:18:48Z' uid='247670' version='1' changeset='4748076'>
+  </node>
+  <node id='303160919' lat='48.1436145' lon='11.5523152' user='burt13de' timestamp='2010-05-19T13:18:48Z' uid='247670' version='11' changeset='4748076'>
+  </node>
+  <node id='303160920' lat='48.1436447' lon='11.5521726' user='ludwich' timestamp='2009-06-07T16:35:45Z' uid='9402' version='10' changeset='1449766'>
+  </node>
+  <node id='303160921' lat='48.1434889' lon='11.5521011' user='ludwich' timestamp='2009-06-07T16:35:46Z' uid='9402' version='10' changeset='1449766'>
+  </node>
+  <node id='303160922' lat='48.1434716' lon='11.5521857' user='ludwich' timestamp='2009-06-07T16:35:45Z' uid='9402' version='10' changeset='1449766'>
+  </node>
+  <node id='303160923' lat='48.1434280' lon='11.5521657' user='ludwich' timestamp='2009-06-07T16:35:45Z' uid='9402' version='10' changeset='1449766'>
+  </node>
+  <node id='303160924' lat='48.1433963' lon='11.5523208' user='ludwich' timestamp='2009-06-07T16:35:45Z' uid='9402' version='10' changeset='1449766'>
+  </node>
+  <node id='303160925' lat='48.1432644' lon='11.5522604' user='ludwich' timestamp='2009-06-07T16:35:45Z' uid='9402' version='10' changeset='1449766'>
+  </node>
+  <node id='303160926' lat='48.1433135' lon='11.5520203' user='ludwich' timestamp='2009-06-07T16:35:45Z' uid='9402' version='10' changeset='1449766'>
+  </node>
+  <node id='201430039' lat='48.1432443' lon='11.5519885' user='ludwich' timestamp='2009-06-07T16:35:47Z' uid='9402' version='19' changeset='1449766'>
+  </node>
+  <node id='201430040' lat='48.1433033' lon='11.5516997' user='ludwich' timestamp='2009-06-07T16:35:46Z' uid='9402' version='19' changeset='1449766'>
+  </node>
+  <node id='303161285' lat='48.1435425' lon='11.5518095' user='ludwich' timestamp='2009-06-07T16:35:46Z' uid='9402' version='3' changeset='1449766'>
+  </node>
+  <node id='303161286' lat='48.1435354' lon='11.5518445' user='ludwich' timestamp='2009-06-07T16:35:46Z' uid='9402' version='3' changeset='1449766'>
+  </node>
+  <node id='341817959' lat='48.1394885' lon='11.5417113' user='Matze20000' timestamp='2009-02-08T11:17:14Z' uid='51302' version='7' changeset='279604'>
+  </node>
+  <node id='341817960' lat='48.1383201' lon='11.5415911' user='Matze20000' timestamp='2009-02-08T11:17:13Z' uid='51302' version='4' changeset='279604'>
+  </node>
+  <node id='341817962' lat='48.1383029' lon='11.5421404' user='Matze20000' timestamp='2009-02-08T11:17:13Z' uid='51302' version='4' changeset='279604'>
+  </node>
+  <node id='341817963' lat='48.1383659' lon='11.5432820' user='Matze20000' timestamp='2009-02-08T11:17:13Z' uid='51302' version='4' changeset='279604'>
+  </node>
+  <node id='341817964' lat='48.1384117' lon='11.5442433' user='Matze20000' timestamp='2009-02-08T11:17:13Z' uid='51302' version='4' changeset='279604'>
+  </node>
+  <node id='341817965' lat='48.1384747' lon='11.5452733' user='Matze20000' timestamp='2009-02-08T11:17:13Z' uid='51302' version='4' changeset='279604'>
+  </node>
+  <node id='341817966' lat='48.1384862' lon='11.5457797' user='Matze20000' timestamp='2009-02-08T11:17:13Z' uid='51302' version='4' changeset='279604'>
+  </node>
+  <node id='341817968' lat='48.1392308' lon='11.5457797' user='Matze20000' timestamp='2009-02-08T11:17:13Z' uid='51302' version='4' changeset='279604'>
+  </node>
+  <node id='798555908' lat='44.5546577' lon='11.1669145' user='MrFrem82' timestamp='2010-07-01T15:34:25Z' uid='308901' version='1' changeset='5121498'>
+  </node>
+  <node id='798555881' lat='44.5545279' lon='11.1673385' user='MrFrem82' timestamp='2010-07-01T15:34:24Z' uid='308901' version='1' changeset='5121498'>
+  </node>
+  <node id='798555895' lat='44.5547999' lon='11.1675026' user='MrFrem82' timestamp='2010-07-01T15:34:25Z' uid='308901' version='1' changeset='5121498'>
+  </node>
+  <node id='798555861' lat='44.5549298' lon='11.1670786' user='MrFrem82' timestamp='2010-07-01T15:34:23Z' uid='308901' version='1' changeset='5121498'>
+  </node>
+  <way id='4609522' user='Pirat Michi' uid='65148' timestamp='2010-08-03T12:13:56Z' version='31' changeset='5389386'>
+    <nd ref='739451034'/>
+    <nd ref='29181124'/>
+    <nd ref='303157623'/>
+    <nd ref='303157624'/>
+    <nd ref='29181125'/>
+    <nd ref='739451037'/>
+    <nd ref='739448760'/>
+    <nd ref='739448761'/>
+    <nd ref='29181126'/>
+    <nd ref='739448729'/>
+    <nd ref='29181127'/>
+    <nd ref='739451034'/>
+    <tag k='addr:city' v='Munich'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='52'/>
+    <tag k='addr:postcode' v='80335'/>
+    <tag k='addr:street' v='Arnulfstraße'/>
+    <tag k='amenity' v='biergarten'/>
+    <tag k='area' v='yes'/>
+    <tag k='barrier' v='wall'/>
+    <tag k='beer' v='Augustiner'/>
+    <tag k='contact:email' v='büro@augustiner-keller.de'/>
+    <tag k='contact:fax' v='089 550 4415'/>
+    <tag k='contact:phone' v='089 594393'/>
+    <tag k='contact:website' v='www.augustinerkeller.de'/>
+    <tag k='landuse' v='village_green'/>
+    <tag k='name' v='Augustiner-Keller'/>
+  </way>
+  <way id='19373551' user='Pirat Michi' uid='65148' timestamp='2010-07-08T10:33:32Z' version='21' changeset='5165088'>
+    <nd ref='201430037'/>
+    <nd ref='201430038'/>
+    <nd ref='303160917'/>
+    <nd ref='303160918'/>
+    <nd ref='739448597'/>
+    <nd ref='739448606'/>
+    <nd ref='739448619'/>
+    <nd ref='739448629'/>
+    <nd ref='303160919'/>
+    <nd ref='303160920'/>
+    <nd ref='303160921'/>
+    <nd ref='303160922'/>
+    <nd ref='303160923'/>
+    <nd ref='303160924'/>
+    <nd ref='303160925'/>
+    <nd ref='303160926'/>
+    <nd ref='201430039'/>
+    <nd ref='201430040'/>
+    <nd ref='303161285'/>
+    <nd ref='303161286'/>
+    <nd ref='201430037'/>
+    <tag k='amenity' v='pub'/>
+    <tag k='beer' v='Augustiner'/>
+    <tag k='building' v='yes'/>
+    <tag k='name' v='Augustiner-Keller'/>
+  </way>
+  <way id='30131050' user='Petr Dlouhý' uid='17615' timestamp='2009-01-14T13:51:32Z' version='1' changeset='786155'>
+    <nd ref='332036217'/>
+    <nd ref='332036218'/>
+    <nd ref='332036221'/>
+    <nd ref='332036222'/>
+    <nd ref='332036223'/>
+    <nd ref='332036224'/>
+    <nd ref='332036225'/>
+    <nd ref='332036226'/>
+    <nd ref='332036227'/>
+    <nd ref='332036228'/>
+    <nd ref='332036229'/>
+    <nd ref='332036230'/>
+    <nd ref='332036231'/>
+    <nd ref='332036232'/>
+    <nd ref='332036217'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='beer' v='Krušovice'/>
+    <tag k='building' v='yes'/>
+    <tag k='name' v='Na staré faře'/>
+    <tag k='source' v='cuzk:km'/>
+  </way>
+  <way id='30812377' user='Pirat Michi' uid='65148' timestamp='2010-07-08T10:33:32Z' version='6' changeset='5165088'>
+    <nd ref='341817959'/>
+    <nd ref='341817960'/>
+    <nd ref='341817962'/>
+    <nd ref='341817963'/>
+    <nd ref='341817964'/>
+    <nd ref='341817965'/>
+    <nd ref='341817966'/>
+    <nd ref='341817968'/>
+    <nd ref='341817959'/>
+    <tag k='area' v='yes'/>
+    <tag k='beer' v='Augustiner'/>
+    <tag k='landuse' v='industrial'/>
+    <tag k='name' v='Augustiner-Bräu'/>
+  </way>
+  <way id='30897518' user='Petr Dlouhý' uid='17615' timestamp='2009-02-08T19:40:38Z' version='1' changeset='270369'>
+    <nd ref='343510724'/>
+    <nd ref='343510723'/>
+    <nd ref='343510784'/>
+    <nd ref='343510731'/>
+    <nd ref='343510728'/>
+    <nd ref='343510727'/>
+    <nd ref='343510726'/>
+    <nd ref='343510745'/>
+    <nd ref='343510742'/>
+    <nd ref='343510738'/>
+    <nd ref='343510713'/>
+    <nd ref='343510754'/>
+    <nd ref='343510733'/>
+    <nd ref='343510772'/>
+    <nd ref='343510724'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='beer' v='Krušovice'/>
+    <tag k='building' v='yes'/>
+    <tag k='name' v='Horský hotel u můstku'/>
+    <tag k='source' v='cuzk:km'/>
+    <tag k='tourism' v='hotel'/>
+  </way>
+  <way id='35478420' user='Zartbitter' uid='40397' timestamp='2010-08-23T07:36:37Z' version='2' changeset='5568426'>
+    <nd ref='416055223'/>
+    <nd ref='416055224'/>
+    <nd ref='416055225'/>
+    <nd ref='416055226'/>
+    <nd ref='416055223'/>
+    <tag k='addr:city' v='Röthenbach bei St. Wolfgang'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='31'/>
+    <tag k='addr:postcode' v='90530'/>
+    <tag k='addr:street' v='Alte Salzstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='beer' v='Kitzmann'/>
+    <tag k='building' v='yes'/>
+    <tag k='cuisine' v='italian'/>
+    <tag k='name' v='Trattoria Massimo'/>
+    <tag k='source' v='Yahoo'/>
+  </way>
+  <way id='35573130' user='Zartbitter' uid='40397' timestamp='2010-08-23T07:38:30Z' version='2' changeset='5568426'>
+    <nd ref='416852957'/>
+    <nd ref='416852958'/>
+    <nd ref='416852959'/>
+    <nd ref='416852960'/>
+    <nd ref='416852957'/>
+    <tag k='addr:city' v='Röthenbach bei St. Wolfgang'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='33'/>
+    <tag k='addr:postcode' v='90530'/>
+    <tag k='addr:street' v='Alte Salzstraße'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='beer' v='Kitzmann'/>
+    <tag k='building' v='yes'/>
+    <tag k='cuisine' v='regional'/>
+    <tag k='name' v='Berggasthaus zum Schwarzachtal'/>
+    <tag k='source' v='Yahoo'/>
+  </way>
+  <way id='40355082' user='stw1701' uid='102899' timestamp='2010-08-11T15:55:42Z' version='5' changeset='5464165'>
+    <nd ref='487209008'/>
+    <nd ref='487208738'/>
+    <nd ref='487208739'/>
+    <nd ref='487208746'/>
+    <nd ref='487208747'/>
+    <nd ref='487208741'/>
+    <nd ref='487208742'/>
+    <nd ref='487208744'/>
+    <nd ref='487208748'/>
+    <nd ref='487208749'/>
+    <nd ref='487208732'/>
+    <nd ref='487208734'/>
+    <nd ref='487208735'/>
+    <nd ref='487208736'/>
+    <nd ref='487209014'/>
+    <nd ref='487209006'/>
+    <nd ref='487209008'/>
+    <tag k='addr:city' v='Leipzig'/>
+    <tag k='addr:country' v='DE'/>
+    <tag k='addr:housenumber' v='9'/>
+    <tag k='addr:postcode' v='04179'/>
+    <tag k='addr:street' v='Vierackerwiesen'/>
+    <tag k='amenity' v='restaurant'/>
+    <tag k='beer' v='Hutthurmer;Ur-Krostitzer'/>
+    <tag k='building' v='yes'/>
+    <tag k='name' v='Leutzscher Aue'/>
+  </way>
+  <way id='65370567' user='MrFrem82' uid='308901' timestamp='2010-08-30T10:54:28Z' version='2' changeset='5634975'>
+    <nd ref='798555908'/>
+    <nd ref='798555881'/>
+    <nd ref='798555895'/>
+    <nd ref='798555861'/>
+    <nd ref='798555908'/>
+    <tag k='beer' v='yes'/>
+    <tag k='building' v='yes'/>
+    <tag k='name' v='Birrificio Statale 9'/>
+    <tag k='shop' v='beverages'/>
+  </way>
+</osm>

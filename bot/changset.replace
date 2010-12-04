@@ -1,0 +1,6 @@
+<osm>
+ <changeset>
+	<tag k="created_by" v="Replacer"/>
+	<tag k="comment" v="Replacing something by script"/>
+ </changeset>
+</osm>
