@@ -1,5 +1,5 @@
 <?xml version='1.0' standalone='no'?>
-<osm version='0.6' generator='xapi: OSM Extended API 2.0' attribution='http://wiki.openstreetmap.org/wiki/Attribution' xmlns:xapi='http://www.informationfreeway.org/xapi/0.6' xapi:uri='/api/0.6/way[brewery=Augustiner]' xapi:planetDate='20101129' xapi:copyright='2010 OpenStreetMap contributors' xapi:license='Creative commons CC-BY-SA 2.0' xapi:bugs='For assistance or to report bugs contact 80n80n@gmail.com' xapi:instance='zappyOsm'>
+<osm version='0.6' generator='xapi: OSM Extended API 2.0' attribution='http://wiki.openstreetmap.org/wiki/Attribution' xmlns:xapi='http://www.informationfreeway.org/xapi/0.6' xapi:uri='/api/0.6/way[brewery=Augustiner]' xapi:planetDate='20110103' xapi:copyright='2011 OpenStreetMap contributors' xapi:license='Creative commons CC-BY-SA 2.0' xapi:bugs='For assistance or to report bugs contact 80n80n@gmail.com' xapi:instance='zappyOsm'>
   <node id='739451034' lat='48.1441581' lon='11.5508168' user='burt13de' timestamp='2010-05-19T13:21:08Z' uid='247670' version='1' changeset='4748076'>
   </node>
   <node id='29181124' lat='48.1446175' lon='11.5509446' user='WosuGer' xapi:users='WosuGer' timestamp='2008-10-08T20:33:11Z' uid='71739' version='22' changeset='187394'>
