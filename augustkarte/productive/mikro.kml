@@ -67,22 +67,10 @@
 		  <Point><coordinates>8.3984698,49.090295</coordinates></Point>
 		</Placemark>
 		<Placemark>
-		  <name>Domhof Hausbrauerei</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=290825462&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>8.44044609999999,49.3176689</coordinates></Point>
-		</Placemark>
-		<Placemark>
 		  <name>Brauhaus Vetter</name>
 		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=310151750&lang=de"  name="box"></iframe>]]></description>
 		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
 		  <Point><coordinates>8.7096945,49.4126545</coordinates></Point>
-		</Placemark>
-		<Placemark>
-		  <name>Watzke Brauereiausschank</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=314661213&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>13.7412066,51.058707</coordinates></Point>
 		</Placemark>
 		<Placemark>
 		  <name>Gasthausbrauerei Gutshof</name>
@@ -127,12 +115,6 @@
 		  <Point><coordinates>-122.9545718,50.1181633</coordinates></Point>
 		</Placemark>
 		<Placemark>
-		  <name>Old Poet's Corner</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=304814504&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>-1.48046430000001,53.1629584</coordinates></Point>
-		</Placemark>
-		<Placemark>
 		  <name>Wallhall</name>
 		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=338986497&lang=de"  name="box"></iframe>]]></description>
 		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
@@ -155,24 +137,6 @@
 		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=279644098&lang=de"  name="box"></iframe>]]></description>
 		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
 		  <Point><coordinates>-104.9984691,39.7535679</coordinates></Point>
-		</Placemark>
-		<Placemark>
-		  <name>Hausbrauerei Feierling</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=31568211&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>7.85276019999999,47.9933372</coordinates></Point>
-		</Placemark>
-		<Placemark>
-		  <name>Martinsbräu</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=248594136&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>7.8497144,47.9936867</coordinates></Point>
-		</Placemark>
-		<Placemark>
-		  <name>Rock Bottom Brewery</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=415817070&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>-104.9948203,39.7474086</coordinates></Point>
 		</Placemark>
 		<Placemark>
 		  <name>Brauerei Schmitt</name>
@@ -475,12 +439,6 @@
 		  <Point><coordinates>10.2100251,56.1560349</coordinates></Point>
 		</Placemark>
 		<Placemark>
-		  <name>Big Time Brewery and Alehouse</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=451898403&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>-122.3134243,47.6577607</coordinates></Point>
-		</Placemark>
-		<Placemark>
 		  <name>Nørrebro Bryghus</name>
 		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=24971137&lang=de"  name="box"></iframe>]]></description>
 		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
@@ -557,12 +515,6 @@
 		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=768273512&lang=de"  name="box"></iframe>]]></description>
 		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
 		  <Point><coordinates>38.7873944,8.99610700000001</coordinates></Point>
-		</Placemark>
-		<Placemark>
-		  <name>Brauereigasthof Sauer</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=667990287&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>11.0764622,49.807867</coordinates></Point>
 		</Placemark>
 		<Placemark>
 		  <name>Turmbräu</name>
@@ -721,22 +673,10 @@
 		  <Point><coordinates>-1.4982056,52.9186076</coordinates></Point>
 		</Placemark>
 		<Placemark>
-		  <name>Brauhaus</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=374400821&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>7.77144530000001,49.4448397</coordinates></Point>
-		</Placemark>
-		<Placemark>
 		  <name>König von Preussen</name>
 		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=388888074&lang=de"  name="box"></iframe>]]></description>
 		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
 		  <Point><coordinates>8.4407997,48.8349447</coordinates></Point>
-		</Placemark>
-		<Placemark>
-		  <name>Michel's</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=529367996&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>8.50894620000001,48.8820647</coordinates></Point>
 		</Placemark>
 		<Placemark>
 		  <name>Adler Bräu</name>
@@ -883,12 +823,6 @@
 		  <Point><coordinates>1.45108659999999,43.6047238</coordinates></Point>
 		</Placemark>
 		<Placemark>
-		  <name>Mönchswasen</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=265089346&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>8.8065716,48.7458127</coordinates></Point>
-		</Placemark>
-		<Placemark>
 		  <name>Heckel Bräu</name>
 		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=265756621&lang=de"  name="box"></iframe>]]></description>
 		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
@@ -929,12 +863,6 @@
 		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=849577435&lang=de"  name="box"></iframe>]]></description>
 		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
 		  <Point><coordinates>11.1355948,49.6115586</coordinates></Point>
-		</Placemark>
-		<Placemark>
-		  <name>Granville Island Brewing</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=773679659&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>-123.1355726,49.270526</coordinates></Point>
 		</Placemark>
 		<Placemark>
 		  <name>Brauerei Witzgall</name>
@@ -1183,12 +1111,6 @@
 		  <Point><coordinates>10.9498675,50.0960724</coordinates></Point>
 		</Placemark>
 		<Placemark>
-		  <name>Brauerei Schwan</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=192638783&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>10.7411268,49.8281476</coordinates></Point>
-		</Placemark>
-		<Placemark>
 		  <name>Gasthof Dinkel</name>
 		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=253790481&lang=de"  name="box"></iframe>]]></description>
 		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
@@ -1247,12 +1169,6 @@
 		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=352740180&lang=de"  name="box"></iframe>]]></description>
 		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
 		  <Point><coordinates>10.9583753,49.9595177</coordinates></Point>
-		</Placemark>
-		<Placemark>
-		  <name>Brauerei Hennemann</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=363933907&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>10.8421213,49.7808009</coordinates></Point>
 		</Placemark>
 		<Placemark>
 		  <name>Gasthof Friedel</name>
@@ -1325,18 +1241,6 @@
 		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=671310059&lang=de"  name="box"></iframe>]]></description>
 		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
 		  <Point><coordinates>11.2356326,49.9139842</coordinates></Point>
-		</Placemark>
-		<Placemark>
-		  <name>Brauerei Büttner</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=707527824&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>10.860165,49.8345433</coordinates></Point>
-		</Placemark>
-		<Placemark>
-		  <name>Wirtshaus zum Välta</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=772941320&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>10.8022168,49.9692668</coordinates></Point>
 		</Placemark>
 		<Placemark>
 		  <name>Braugasthof Grosch</name>
@@ -1417,18 +1321,6 @@
 		  <Point><coordinates>11.1543153,50.0057865</coordinates></Point>
 		</Placemark>
 		<Placemark>
-		  <name>Beck-Bräu</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=845170602&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>10.7248071,49.8952803</coordinates></Point>
-		</Placemark>
-		<Placemark>
-		  <name>Brauereigasthof Kaiser</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=845191718&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>10.7642586,49.8383674</coordinates></Point>
-		</Placemark>
-		<Placemark>
 		  <name>Gasthaus Eichhorn</name>
 		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=849585378&lang=de"  name="box"></iframe>]]></description>
 		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
@@ -1451,12 +1343,6 @@
 		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=255472178&lang=de"  name="box"></iframe>]]></description>
 		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
 		  <Point><coordinates>11.2525225,49.6297999</coordinates></Point>
-		</Placemark>
-		<Placemark>
-		  <name>Gottsmannsgrüner Brauerei</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=260040315&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>11.8013251,50.3849909</coordinates></Point>
 		</Placemark>
 		<Placemark>
 		  <name>Krugbräu</name>
@@ -1529,12 +1415,6 @@
 		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=840263657&lang=de"  name="box"></iframe>]]></description>
 		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
 		  <Point><coordinates>11.346446,50.2000315</coordinates></Point>
-		</Placemark>
-		<Placemark>
-		  <name>Vogel Hausbräu</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=30787406&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>8.40495400000001,48.9416753</coordinates></Point>
 		</Placemark>
 		<Placemark>
 		  <name>Eisgrub-Bräu</name>
@@ -1681,34 +1561,16 @@
 		  <Point><coordinates>10.760351,59.918368</coordinates></Point>
 		</Placemark>
 		<Placemark>
-		  <name>Hallesches Brauhaus</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=390948817&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>11.9685669,51.4838268</coordinates></Point>
-		</Placemark>
-		<Placemark>
 		  <name>Craig Street Brew Pub</name>
 		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=944736188&lang=de"  name="box"></iframe>]]></description>
 		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
 		  <Point><coordinates>-123.7084559,48.777256</coordinates></Point>
 		</Placemark>
 		<Placemark>
-		  <name>Fur Bryghus</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=945302381&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>8.9627127,56.8311215</coordinates></Point>
-		</Placemark>
-		<Placemark>
 		  <name>Svaneke Bryghus</name>
 		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=945305048&lang=de"  name="box"></iframe>]]></description>
 		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
 		  <Point><coordinates>15.1404728,55.1360379</coordinates></Point>
-		</Placemark>
-		<Placemark>
-		  <name>Der Vogelbräu</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=26940248&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>8.4659961,48.9984055</coordinates></Point>
 		</Placemark>
 		<Placemark>
 		  <name>Il Maresciallo</name>
@@ -1795,12 +1657,6 @@
 		  <Point><coordinates>9.24569150000002,50.0841224</coordinates></Point>
 		</Placemark>
 		<Placemark>
-		  <name>unbenannt</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=964939763&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>28.4213413,-28.5160005</coordinates></Point>
-		</Placemark>
-		<Placemark>
 		  <name>Brauhaus Bönnsch</name>
 		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=409142384&lang=de"  name="box"></iframe>]]></description>
 		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
@@ -1811,18 +1667,6 @@
 		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=428621874&lang=de"  name="box"></iframe>]]></description>
 		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
 		  <Point><coordinates>12.1638691,49.6758729</coordinates></Point>
-		</Placemark>
-		<Placemark>
-		  <name>Klosterbräuhaus Ursberg</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=971085304&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>10.4447449,48.2654386</coordinates></Point>
-		</Placemark>
-		<Placemark>
-		  <name>Schalander Hausbrauerei</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=282745681&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>13.4714709,52.5173105</coordinates></Point>
 		</Placemark>
 		<Placemark>
 		  <name>Amadeus Hausbräu</name>
@@ -1873,28 +1717,10 @@
 		  <Point><coordinates>9.74028019999996,52.3683843</coordinates></Point>
 		</Placemark>
 		<Placemark>
-		  <name>Ratinger Brauhaus</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=366839495&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>6.85570670000001,51.2982117</coordinates></Point>
-		</Placemark>
-		<Placemark>
 		  <name>Ёрш</name>
 		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=982621860&lang=de"  name="box"></iframe>]]></description>
 		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
 		  <Point><coordinates>37.5718715,55.6482618</coordinates></Point>
-		</Placemark>
-		<Placemark>
-		  <name>Paulaner Bräuhaus</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=307528347&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>11.558963,48.126328</coordinates></Point>
-		</Placemark>
-		<Placemark>
-		  <name>Brauerei Fässla</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=776474239&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>10.8927638,49.8971126</coordinates></Point>
 		</Placemark>
 		<Placemark>
 		  <name>Commanderie van Sint Jan</name>
@@ -1921,22 +1747,10 @@
 		  <Point><coordinates>5.92343689999999,49.5725971</coordinates></Point>
 		</Placemark>
 		<Placemark>
-		  <name>Marienstatter Brauhaus</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=254487377&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>7.7998531,50.6848124</coordinates></Point>
-		</Placemark>
-		<Placemark>
 		  <name>Neckarmüller</name>
 		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=31271991&lang=de"  name="box"></iframe>]]></description>
 		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
 		  <Point><coordinates>9.05864330000001,48.5192395</coordinates></Point>
-		</Placemark>
-		<Placemark>
-		  <name>Hansens Brauerei</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=321243116&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>9.4333931,54.7907543</coordinates></Point>
 		</Placemark>
 		<Placemark>
 		  <name>Brauberger</name>
@@ -2071,22 +1885,10 @@
 		  <Point><coordinates>6.25929549999999,50.9592903</coordinates></Point>
 		</Placemark>
 		<Placemark>
-		  <name>König von Flandern</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=798642761&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>10.898165,48.3699553</coordinates></Point>
-		</Placemark>
-		<Placemark>
 		  <name>Brauereistüb'l</name>
 		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=41752084&lang=de"  name="box"></iframe>]]></description>
 		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
 		  <Point><coordinates>6.2595627,50.9593756</coordinates></Point>
-		</Placemark>
-		<Placemark>
-		  <name>Salm Bräu</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=119371746&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>16.3808418,48.1966362</coordinates></Point>
 		</Placemark>
 		<Placemark>
 		  <name>Fischerbräu</name>
@@ -2137,22 +1939,10 @@
 		  <Point><coordinates>9.04676559999996,54.4789582</coordinates></Point>
 		</Placemark>
 		<Placemark>
-		  <name>Ostfriesische Küstenbrauerei zu Werdum</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=463176803&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>7.71613359999999,53.6599361</coordinates></Point>
-		</Placemark>
-		<Placemark>
 		  <name>Bratislavský meštiansky pivovar</name>
 		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=827314790&lang=de"  name="box"></iframe>]]></description>
 		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
 		  <Point><coordinates>17.1080646,48.1469927</coordinates></Point>
-		</Placemark>
-		<Placemark>
-		  <name>Tiroler Bier</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=1033677775&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>11.3887528,47.2543315</coordinates></Point>
 		</Placemark>
 		<Placemark>
 		  <name>Branger Alm</name>
@@ -2171,12 +1961,6 @@
 		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=545747513&lang=de"  name="box"></iframe>]]></description>
 		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
 		  <Point><coordinates>14.3127627,46.6168631</coordinates></Point>
-		</Placemark>
-		<Placemark>
-		  <name>Weihenstephaner</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=1036349948&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>11.8602625,47.7354709</coordinates></Point>
 		</Placemark>
 		<Placemark>
 		  <name>Brauerei Wichert</name>
@@ -2213,12 +1997,6 @@
 		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=847152254&lang=de"  name="box"></iframe>]]></description>
 		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
 		  <Point><coordinates>11.126925,48.4705696</coordinates></Point>
-		</Placemark>
-		<Placemark>
-		  <name>Brauhaus Spandau</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=1027444002&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>13.2066504,52.5408063</coordinates></Point>
 		</Placemark>
 		<Placemark>
 		  <name>Maximilians Brauerei</name>
@@ -2269,12 +2047,6 @@
 		  <Point><coordinates>-0.247552299999993,52.5759456</coordinates></Point>
 		</Placemark>
 		<Placemark>
-		  <name>Brauhaus am Lohberg</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=278049307&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>11.461201,53.8953462</coordinates></Point>
-		</Placemark>
-		<Placemark>
 		  <name>Frischeisen</name>
 		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=1064312260&lang=de"  name="box"></iframe>]]></description>
 		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
@@ -2323,10 +2095,352 @@
 		  <Point><coordinates>11.1546549,49.9778933</coordinates></Point>
 		</Placemark>
 		<Placemark>
-		  <name>Kärrners Hausbrauerei</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=59618136&lang=de"  name="box"></iframe>]]></description>
+		  <name>Ostfriesische Küstenbrauerei zu Werdum</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=463176803&lang=de"  name="box"></iframe>]]></description>
 		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>9.35119484823748,50.2234324029544</coordinates></Point>
+		  <Point><coordinates>7.71621580000001,53.6600939</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Brauereigasthof Sauer</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=667990287&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>11.0764622,49.807867</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Fast Grill</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=1057860505&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>-35.2121867,-5.84228270000001</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Jamie's Italian</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=1089089289&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>-0.126918700000004,51.5125034</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Vogel Hausbräu</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=30787406&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>8.40495400000001,48.9416753</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Adstragold</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=1094730855&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>103.8523416,1.29521239999999</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Granville Island Brewing</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=773679659&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>-123.1355726,49.270526</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Domhof Hausbrauerei</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=290825462&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>8.44044609999999,49.3176689</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>NiKY'S</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=1102286626&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>11.1202348,46.0559627</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Hansens Brauerei</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=321243116&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>9.4333931,54.7907543</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Klosterbräuhaus Ursberg</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=971085304&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>10.4448911,48.2654447</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Fitgers</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=1105621953&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>-92.0907559000004,46.7924183</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Flat Tail Brewing</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=1105258045&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>-123.259595,44.5627465</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Marienstatter Brauhaus</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=254487377&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>7.79984729999999,50.6849416</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Beck-Bräu</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=845170602&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>10.7249266,49.8948415</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Brauereigasthof Jacob</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=1106761617&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>12.3050087,49.2708584</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Klüver's Brauhaus</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=478780252&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>10.811377,54.1055973</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Schalander Hausbrauerei</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=282745681&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>13.4714709,52.5173105</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>unbenannt</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=964939763&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>28.4213413,-28.5160005</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Brøggeriet</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=1116085803&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>9.78872099999997,54.908898</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Søgaards Bryghus</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=1116085811&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>9.92015969999997,57.0489455</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Denmark Brew and Ales</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=1116081300&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>117.3134924,-34.9619234</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Ratinger Brauhaus</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=366839495&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>6.85589779999999,51.2981763</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Der Vogelbräu</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=26940248&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>8.4659961,48.9984057</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Gottsmannsgrüner Brauerei</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=260040315&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>11.8004774,50.3854398</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Old Poet's Corner</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=304814504&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>-1.48046430000001,53.1629584</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Michels</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=529367996&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>8.50894620000001,48.8820647</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>unbenannt</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=1125977013&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>11.258822,53.1376458</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Café des Sports</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=1126031159&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>0.835116199999995,47.2692099</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Del Arte</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=178257448&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>1.5122144,43.5389559</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>The Corner Pin</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=803021280&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>-1.3247924,53.0593973</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Trattoria Pane e vino da Nonna Lucia</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=1126756279&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>9.43226730000004,48.9451168</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Le Monterminod</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=1128208957&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>6.5406901,45.6718045</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Brauhaus am Lohberg</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=278049307&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>11.4610878,53.8953614</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Big Johns</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=1132390694&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>-74.9758305,39.9065966</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Big Johns</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=1132390740&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>-74.9756632,39.9063367</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Big Johns</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=1132390791&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>-74.9755528999999,39.9064933</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Big Johns</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=1132390817&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>-74.9759285,39.9064275</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>The Mystic Tin</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=1132428564&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>20.1200622,-33.7870889000001</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Hallesches Brauhaus</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=390948817&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>11.968516,51.4838413</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>MiGaea</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=1134244651&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>-3.00860039999999,43.3398301</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Salm Bräu</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=119371746&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>16.3809023,48.1965909</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>König von Flandern</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=798642761&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>10.898165,48.3699553</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Big Time Brewery and Alehouse</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=451898403&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>-122.3134243,47.6577607</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Tiroler Bier</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=1033677775&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>11.3888525,47.254313</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Martinsbräu</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=248594136&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>7.8497144,47.9936867</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Dark Corner Distillery</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=1151611031&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>-82.3978977,34.8535621</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Three Creeks Brewing Company</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=1153993947&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>-121.5349438,44.2852537</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Hausbrauerei Feierling</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=31568211&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>7.85274329999999,47.9932959</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Paulaner Bräuhaus</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=307528347&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>11.558963,48.126328</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Brauhaus Spandau</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=1027444002&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>13.2066504,52.5408063</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Zum Läuterbottich</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=247662583&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>9.39483250000002,48.9901452</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Rock Bottom Brewery</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=415817070&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>-104.9948203,39.7474086</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Hanse Bier</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=1158089470&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>30.386227,59.9710072</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Privatbrauerei am Rollberg</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=1111632075&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>13.4312893,52.4795133</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Пиворама</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=1159517322&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>30.4837318,59.9085415</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Watzke Brauereiausschank</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=314661213&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>13.7412066,51.058707</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Brauerei Fässla</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=node&id=776474239&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>10.8927525,49.8970933</coordinates></Point>
 		</Placemark>
 		<Placemark>
 		  <name>Kloster Kreuzberg</name>
@@ -2407,12 +2521,6 @@
 		  <Point><coordinates>1.61234448411715,43.4492138013647</coordinates></Point>
 		</Placemark>
 		<Placemark>
-		  <name>Enzensteiner Brauerei / Biergarten</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=50308663&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>11.3681186420947,49.5622950520543</coordinates></Point>
-		</Placemark>
-		<Placemark>
 		  <name>Brauerei-Gasthof Höhn</name>
 		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=42876523&lang=de"  name="box"></iframe>]]></description>
 		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
@@ -2453,12 +2561,6 @@
 		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=38105152&lang=de"  name="box"></iframe>]]></description>
 		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
 		  <Point><coordinates>10.8872141451237,49.889250679007</coordinates></Point>
-		</Placemark>
-		<Placemark>
-		  <name>Brauerei Gasthof Greifenklau</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=39321524&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>10.8822296375463,49.8836497708089</coordinates></Point>
 		</Placemark>
 		<Placemark>
 		  <name>Bürgerbräu Naila</name>
@@ -2533,12 +2635,6 @@
 		  <Point><coordinates>2.83268028959521,50.4852189276002</coordinates></Point>
 		</Placemark>
 		<Placemark>
-		  <name>unbenannt</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=45645886&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>3.06918681104864,50.6360432202665</coordinates></Point>
-		</Placemark>
-		<Placemark>
 		  <name>Les 3 brasseurs</name>
 		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=52032564&lang=de"  name="box"></iframe>]]></description>
 		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
@@ -2569,12 +2665,6 @@
 		  <Point><coordinates>11.5583431052063,49.9852741865845</coordinates></Point>
 		</Placemark>
 		<Placemark>
-		  <name>The Falstaff</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=55070258&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>-1.4800663694521,52.9104765904333</coordinates></Point>
-		</Placemark>
-		<Placemark>
 		  <name>Fullsteam Brewery</name>
 		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=44481470&lang=de"  name="box"></iframe>]]></description>
 		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
@@ -2597,12 +2687,6 @@
 		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=81601344&lang=de"  name="box"></iframe>]]></description>
 		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
 		  <Point><coordinates>-1.87995320364847,52.5158641676693</coordinates></Point>
-		</Placemark>
-		<Placemark>
-		  <name>Пивоваренный завод Пилигрим ООО</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=44073867&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>33.1036403975041,68.9071344971765</coordinates></Point>
 		</Placemark>
 		<Placemark>
 		  <name>Cap'n'Gown</name>
@@ -2689,12 +2773,6 @@
 		  <Point><coordinates>16.2804508301745,48.1953591333135</coordinates></Point>
 		</Placemark>
 		<Placemark>
-		  <name>BeerBerry</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=88878501&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>56.0176400479215,54.7598708761449</coordinates></Point>
-		</Placemark>
-		<Placemark>
 		  <name>Landgasthof Hubertus</name>
 		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=88884083&lang=de"  name="box"></iframe>]]></description>
 		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
@@ -2719,12 +2797,6 @@
 		  <Point><coordinates>11.7998030822798,49.761096486282</coordinates></Point>
 		</Placemark>
 		<Placemark>
-		  <name>The Brunswick</name>
-		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=55121165&lang=de"  name="box"></iframe>]]></description>
-		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
-		  <Point><coordinates>-1.46408705277528,52.9183121227227</coordinates></Point>
-		</Placemark>
-		<Placemark>
 		  <name>Kühler Krug</name>
 		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=23528466&lang=de"  name="box"></iframe>]]></description>
 		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
@@ -2747,6 +2819,144 @@
 		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=60142889&lang=de"  name="box"></iframe>]]></description>
 		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
 		  <Point><coordinates>8.98320772518393,45.7062494041316</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Brauhaus 1880</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=93487239&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>9.27700610703268,51.1223272299282</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Львинное Сердце</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=94338255&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>92.9309524182009,56.0663523881396</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Brauerei Ibel</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=95437654&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>10.6145194446152,49.8243192442878</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>3 brasseurs</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=45645886&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>3.06918681104864,50.6360432202665</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Wirtshaus zum Välta</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=90025409&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>10.802179673344,49.969148424815</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Enzensteiner Brauerei / Biergarten</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=50308663&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>11.3681021349271,49.5623539595591</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>BeerBerry</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=88878501&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>56.0176400479215,54.7598708761449</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Mönchswasen</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=96470106&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>8.80640660623726,48.745870356316</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Brauhaus Alter Bahnhof</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=52877459&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>6.74685223451656,51.2315050608735</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Heerdter Gasthaus</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=97208669&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>6.7214287144861,51.2324877145404</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Bennigan's</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=96166188&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>-94.4722299420077,18.1439760149407</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Big Johns</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=97829534&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>-74.9757387269578,39.9064666318108</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Brauereigasthof Kaiser</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=98410547&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>10.764390356608,49.8381263621805</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Brauerei Büttner</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=98577058&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>10.8601950170645,49.8347087245299</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Brauerei Gasthof Greifenklau</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=39321524&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>10.8821856621171,49.8836723738092</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>The Falstaff</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=55070258&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>-1.4800663694521,52.9104765904333</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>The Brunswick</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=55121165&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>-1.46408705277528,52.9183121227227</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Пивоваренный завод Пилигрим ООО</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=44073867&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>33.1036403975041,68.9071344971765</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Brauerei Schwan</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=99320814&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>10.7410866074653,49.8281768403199</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Sonne</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=99382824&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>8.5800828249828,48.2243615250662</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Brauerei Hennemann</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=99881496&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>10.8420614970413,49.7808217896302</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Kärrners Hausbrauerei</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=59618136&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>9.35133529643348,50.2234930665141</coordinates></Point>
+		</Placemark>
+		<Placemark>
+		  <name>Fur Bryghus</name>
+		  <description><![CDATA[<iframe scrolling="no" frameborder="0" src="gen_poi_info.wsgi?type=way&id=101237114&lang=de"  name="box"></iframe>]]></description>
+		  <styleUrl>#msn_ylw-pushpin</styleUrl> 
+		  <Point><coordinates>8.96344051442468,56.8315546846623</coordinates></Point>
 		</Placemark>
 
 		
