@@ -6,7 +6,7 @@
   de.shortdescription="Informationen über den Bürgersteig hinzufügen"
   description="Add information about pavements for Wheelchairrouting"
   de.description="Informationen – über den Bürgersteig – für das Rollstuhlfahrerrouting hinzufügen">
-  <item name="pavements" de.name="Bürgersteige" icon="bürgersteig.png" type="way">
+  <item name="pavements" de.name="Bürgersteige" icon="http://github.com/Nudin/OSM/raw/master/presets/pavement.png" type="way">
     <label text="All data in orientation of the vector!" de.text="Alle Angaben in Richtung des Vektors!" />
     <space/>
 
