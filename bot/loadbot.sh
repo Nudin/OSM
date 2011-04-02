@@ -86,7 +86,7 @@ simpelbot()
 	#API-Adress
 	api="http://api.openstreetmap.org/api/0.6"
 
-	# Generate value - we have to use this, because xapi expects '*' while sed expects regex 
+	# Generate value - we have to use this, because xapi expects '*' while sed expects regex
 	if [ "$searchvalue" = '*' ] ; then
 		value=".*"
 	else
