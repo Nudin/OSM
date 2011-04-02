@@ -1,5 +1,5 @@
 <presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0">
-  <item name="wheelchair" icon="wheelchair.png" type="node,closedway">
+  <item name="Rollstuhltauglichkeit" icon="wheelchair.png" type="node,closedway">
     <label text="Informationen über die Rollstuhltauglichkeit." />
  
     <combo key="wheelchair" text="Rollstuhltauglich?" values="yes,no,limited" display_values="Ja,Nein,Eingeschränkt" default="yes"  delete_if_empty="true" />

@@ -2,7 +2,7 @@
   <item name="brewery" icon="beer.png" type="node,closedway">
     <label text="Brauerei einzeichnen." />
 
-    <combo key="brewery" text="Brauerei" values="Augustiner,Löwenbräu,Allgäuer Brauhaus" default="Augustiner" delete_if_empty="true" />
+    <combo key="brewery" text="Brauerei" values="Augustiner,Allgäuer Brauhaus,Shepherd Neame,Löwenbräu,Ayinger,Paulaner,Franziskaner,Aktienbrauerei Kaufbeuren" default="Augustiner" delete_if_empty="true" />
     <combo key="brewery:Weizen" text="Weissbier" values="Franziskaner" delete_if_empty="true" />
     
     
