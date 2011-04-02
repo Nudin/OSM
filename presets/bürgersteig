@@ -1,27 +1,34 @@
-<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0">
-  <item name="Bürgersteige" icon="bürgersteig.png" type="way">
-    <label text="Alle Angaben in Richtung des Vektors!" />
+<?xml version="1.0" encoding="UTF-8"?>
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0"
+  author="Michael F. Schönitzer"
+  version="0.5"
+  shortdescription="Add information about pavements"
+  de.shortdescription="Informationen über den Bürgersteig hinzufügen"
+  description="Add information about pavements for Wheelchairrouting"
+  de.description="Informationen – über den Bürgersteig – für das Rollstuhlfahrerrouting hinzufügen">
+  <item name="pavements" de.name="Bürgersteige" icon="bürgersteig.png" type="way">
+    <label text="All data in orientation of the vector!" de.text="Alle Angaben in Richtung des Vektors!" />
     <space/>
 
-    <combo key="footway" text="Hat die Straße Bürgersteige?" values="left,right,both,none" display_values="Links,Rechts,Beide,Keine" default="both"  delete_if_empty="true" />
+    <combo key="footway" text="Does the road have pavements?" de.text="Hat die Straße Bürgersteige?" values="left,right,both,none" de.display_values="Links,Rechts,Beide,Keine" default="both"  delete_if_empty="true" />
     <space/>
 
-    <label text="Linker Bürgersteig" />
-    <combo key="footway:left.surface" text="Oberfläche" values="paved,unpaved,gravel,cobblestone,ground,grass,asphalt,sand,paving_stones,concrete_plates,grass_paver" display_values="befestigt,ungepflastert,Kies/ Schotter,Kopfsteinpflaster,Erdboden,Grasoberfläche,asphalt,Sand,Pflastersteine,Beton-Platten,Rasengittersteine" default="paving_stones"  delete_if_empty="true" />
-    <combo key="footway:left.smoothness" text="Glattheit" values="excellent,good,intermediate,bad,very_bad" display_values="wunderbar,gut,mittel,schlecht,sehr schlecht" default=""  delete_if_empty="true" />
-    <text key="footway:left.width" text="Breite (Meter)" />
-    <text key="footway:left.incline" text="Steigung (%)" />
-    <text key="footway:left.sloped_curb.start" text="Bordsteinhöhe Anfang (cm)" />
-    <text key="footway:left.sloped_curb.end" text="Bordsteinhöhe Ende (cm)" />
+    <label text="left pavement" de.text="Linker Bürgersteig" />
+    <combo key="footway:left.surface" text="Surface" de.text="Oberfläche" values="paved,unpaved,gravel,cobblestone,ground,grass,asphalt,sand,paving_stones,concrete_plates,grass_paver" de.display_values="befestigt,ungepflastert,Kies/ Schotter,Kopfsteinpflaster,Erdboden,Grasoberfläche,asphalt,Sand,Pflastersteine,Beton-Platten,Rasengittersteine" default="paving_stones"  delete_if_empty="true" />
+    <combo key="footway:left.smoothness" text="smoothness" de.text="Glattheit" values="excellent,good,intermediate,bad,very_bad" de.display_values="wunderbar,gut,mittel,schlecht,sehr schlecht" default=""  delete_if_empty="true" />
+    <text key="footway:left.width" text="Width (meter)" de.text="Breite (Meter)" />
+    <text key="footway:left.incline" text="incline (%)" de.text="Steigung (%)" />
+    <text key="footway:left.sloped_curb.start" text="height of sloped curb at beginning (cm)" de.text="Bordsteinhöhe Anfang (cm)" />
+    <text key="footway:left.sloped_curb.end" text="height of sloped curb at end (cm)" de.text="Bordsteinhöhe Ende (cm)" />
     <space/>
     
-    <label text="Rechter Bürgersteig" />
-    <combo key="footway:right.surface" text="Oberfläche" values="paved,unpaved,gravel,cobblestone,ground,grass,asphalt,sand,paving_stones,concrete_plates,grass_paver" display_values="befestigt,ungepflastert,Kies/ Schotter,Kopfsteinpflaster,Erdboden,Grasoberfläche,asphalt,Sand,Pflastersteine,Beton-Platten,Rasengittersteine" default="paving_stones"  delete_if_empty="true" />
-    <combo key="footway:right.smoothness" text="Glattheit" values="excellent,good,intermediate,bad,very_bad" display_values="wunderbar,gut,mittel,schlecht,sehr schlecht" default=""  delete_if_empty="true" />
-    <text key="footway:right.width" text="Breite (Meter)" />
-    <text key="footway:right.incline" text="Steigung (%)" />
-    <text key="footway:right.sloped_curb.start" text="Bordsteinhöhe Anfang (cm)" />
-    <text key="footway:right.sloped_curb.end" text="Bordsteinhöhe Ende (cm)" />
+    <label text="right pavement" de.text="Rechter Bürgersteig" />
+    <combo key="footway:right.surface" text="Surface" de.text="Oberfläche" values="paved,unpaved,gravel,cobblestone,ground,grass,asphalt,sand,paving_stones,concrete_plates,grass_paver" de.display_values="befestigt,ungepflastert,Kies/ Schotter,Kopfsteinpflaster,Erdboden,Grasoberfläche,asphalt,Sand,Pflastersteine,Beton-Platten,Rasengittersteine" default="paving_stones"  delete_if_empty="true" />
+    <combo key="footway:right.smoothness" text="smoothness" de.text="Glattheit" values="excellent,good,intermediate,bad,very_bad" de.display_values="wunderbar,gut,mittel,schlecht,sehr schlecht" default=""  delete_if_empty="true" />
+    <text key="footway:right.width" text="Width (meter)" de.text="Breite (Meter)" />
+    <text key="footway:right.incline" text="incline (%)" de.text="Steigung (%)" />
+    <text key="footway:right.sloped_curb.start" text="height of sloped curb at beginning (cm)" de.text="Bordsteinhöhe Anfang (cm)" />
+    <text key="footway:right.sloped_curb.end" text="height of sloped curb at end (cm)" de.text="Bordsteinhöhe Ende (cm)" />
 
   </item>
 </presets>
