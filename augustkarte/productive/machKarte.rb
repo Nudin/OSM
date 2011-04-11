@@ -362,7 +362,13 @@ puts infile
 
     # Read date
     date = doc.root.attributes["xapi:planetDate"]
-    date = date.slice(6,2) + "." + date.slice(4,2) + "." + date.slice(0,4)
+    if(date != nil)
+	date = date.slice(6,2) + "." + date.slice(4,2) + "." + date.slice(0,4)
+    else
+	time = Time.new
+	date = time.day.to_s() + "." + time.month.to_s() + "." +  time.year.to_s()
+    end
+
 
     # Return number of found nodes.
     return count, date
@@ -468,7 +474,12 @@ def parse_ways(infile, outfile, search_tag, description_extra, icons, append)
 
     # Read date
     date = doc.root.attributes["xapi:planetDate"]
-    date = date.slice(6,2) + "." + date.slice(4,2) + "." + date.slice(0,4)
+    if(date != nil)
+	date = date.slice(6,2) + "." + date.slice(4,2) + "." + date.slice(0,4)
+    else
+	time = Time.new
+	date = time.day.to_s() + "." + time.month.to_s() + "." +  time.year.to_s()
+    end
 
     # Return number of found nodes.
     return count, date
