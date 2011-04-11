@@ -95,8 +95,10 @@ end
 ## It will try several XAPI-Servers
 def APIdownload(query, filename)
 api_url = [
+"http://open.mapquestapi.com/xapi/api/0.6/",
 "http://www.informationfreeway.org/api/0.6/",
 "http://xapi.openstreetmap.org/api/0.6/",
+"http://jxapi.openstreetmap.org/xapi/api/0.6/",
 "http://osmxapi.hypercube.telascience.org/api/0.6/",
 "http://osm.bearstech.com/osmxapi/api/0.6/" ]
    if $do_download
