@@ -7,7 +7,12 @@ open=1
 
 help()
 {
-echo -e "josmsd.sh [-b minlat,minlon,maxlat,maxlon] [-a Name] [-o] key value"
+echo -e "josmsd.sh [-b minlat,minlon,maxlat,maxlon] [-a Name] [-o] [-w] key value"
+echo
+echo -e "\t-b\tDownload data in given area (Koordinates given)"
+echo -e "\t-a\tDownload data in given area (Name give)"
+echo -e "\t-w\tDownload ways instead of nodes"
+echo -e "\t-o\tDon't open"
 exit
 }
 warn()
@@ -36,12 +41,15 @@ case $1 in
 esac
 }
 
+type="node"
+
 ### Check script-arguments ###
-while getopts "a:b:oh" optionName; do
+while getopts "a:b:owh" optionName; do
  case "$optionName" in
   b) bbox=$OPTARG;;
   a) usearea $OPTARG;;
   o) open=0;;
+  w) type="way";;
   h) help;;
   [?]) help;;
  esac
@@ -55,14 +63,15 @@ else
 	searchvalue=$2
 fi
 
+echo "type: $type"
 echo "kex: $key"
 echo "value: $searchvalue"
 echo "bbox: $bbox"
 
 
-wget "http://osmxapi.hypercube.telascience.org/api/0.6/node[${key}=${searchvalue}][bbox=$bbox]" -O josmfile.osm
+wget "http://jxapi.openstreetmap.org/xapi/api/0.6/${type}[${key}=${searchvalue}][bbox=$bbox]" -O josmfile.osm
 
-if [ $open -eq 0 ] ; then
+if [ $? -ne 0 -o $open -eq 0 ] ; then
  exit
 fi
 

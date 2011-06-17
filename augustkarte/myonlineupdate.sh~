@@ -1,3 +1,0 @@
-#!/bin/bash
-
-/home/michi/OSM/augustkarte/onlineupdate.sh $* members.gefi.at michi barbara01
