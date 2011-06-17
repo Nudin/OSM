@@ -7,3 +7,6 @@ augustkarte/count
 augustkarte/import
 augustkarte/import/*
 *~
+bot/user
+bot/oldlog.ods
+bot/logfile.csv
