@@ -4,12 +4,29 @@ startlog()
  {
  echo -en "\n" >> logfile.csv
  }
+ 
+ ## Write message to log
+ # $1: size of space
+ # $2: status (0 normal=normal, 1 error=red, 2 info=blue, 3 success=green)
+ # $3: text
+ ### OR
+ # $2: -q --> don't print out, only log
+ # $3: text
 log()
  {
  if [ "$1" = "-q" ] ; then
 	shift
  else
-	echo "$@" | tail -c +3
+        color='\e[0m'
+ 	if [ ${#} -eq 1 ] ; then : 
+ 	elif [ $1 -eq 0 ] ; then shift
+ 	elif [ $1 -eq 1 ] ; then color='\e[31m'; shift
+ 	elif [ $1 -eq 2 ] ; then color='\e[34m'; shift
+ 	elif [ $1 -eq 3 ] ; then color='\e[32m'; shift
+ 	fi
+	echo -en "${color}"
+	echo -en "$@" | tail -c +3
+	echo -e "\e[0m"
  fi
  for ((t=0; t<$1; t++)) ; do
 	echo -en "\t" >> logfile.csv
@@ -33,13 +50,12 @@ readuserpw()
 # Download from XAPI 
 XAPIdownload()	# $1: query $2:filename
  {
- api_url=("http://www.informationfreeway.org/api/0.6/" "http://xapi.openstreetmap.org/api/0.6/" "http://osmxapi.hypercube.telascience.org/api/0.6/" "http://osm.bearstech.com/osmxapi/api/0.6/")
+ api_url=("http://jxapi.openstreetmap.org/xapi/api/0.6/" "http://open.mapquestapi.com/xapi/api/0.6/" "http://www.informationfreeway.org/api/0.6/" "http://xapi.openstreetmap.org/api/0.6/" "http://osmxapi.hypercube.telascience.org/api/0.6/" "http://osm.bearstech.com/osmxapi/api/0.6/")
 
  for (( i=0; i<${#api_url[*]}; i++ )) ; do
-echo "wget $wgetsilent \"${api_url[$i]}$1\" -O $2"
 	wget $wgetsilent "${api_url[$i]}$1" -O $2
 	if [ $? -eq 0 ]; then break; else echo "Trying next Server" ; fi
-	if [ $i -eq $(expr ${#api_url[*]} "-" 1) ]; then log 2 "No xapi-Server working" ; return 1; fi
+	if [ $i -eq $(expr ${#api_url[*]} "-" 1) ]; then log 2 1 "No xapi-Server working" ; return 1; fi
  done
 
  }
@@ -114,42 +130,42 @@ simpelbot()
 		echo -en '\e[0m'
 		echo -e "Do you realy want to do this? (\e[1my\e[0mes/\e[1mn\e[0mext/\e[1ma\e[0mbort)"
 		read rly
-		if [ "$( echo $rly | grep n)" != "" ]  ; then log 2 "skipping.." ; return 1 ; fi
-		if [ "$( echo $rly | grep a)" != "" ]  ; then log 2 "aborting, by" ; exit ; fi
+		if [ "$( echo $rly | grep n)" != "" ]  ; then log 2 2 "skipping.." ; return 1 ; fi
+		if [ "$( echo $rly | grep a)" != "" ]  ; then log 2 2 "aborting, by" ; exit ; fi
 		if [ "$( echo $rly | tr 'j' 'y' | grep y)" = "" ]  ; then echo "Wrong input, interpreting as abort" ; exit ; fi
 	fi
 
 	# Write comment to Changesetfile
 	less changset.bot | rx=$comment perl -pe 's/@@@/$ENV{rx}/' > mychangset	#Use Perl instead of sed, because perl dosn't interpret the text
-	if [ $? -ne 0 ] ; then log 2 "Error setting comment; aborting"; return 7 ; fi
+	if [ $? -ne 0 ] ; then log 2 1 "Error setting comment; aborting"; return 7 ; fi
 
 	# Download Node-list
 	if [ $download -eq 1 ] ; then
 		XAPIdownload "node[${key}=${searchvalue}]$bboxcode" "$file"
 	fi
-	number=$(less $file | grep "<node id='" | wc -l )
+	number=$(less $file | grep "<node id=" | wc -l )
 	if [ $number -eq 0 ] ; then # If there ist nothing to edit, exit
-	 log 2 "Suchausdruck nicht gefunden. Nichts weiter zu tun"
+	 log 2 1 "Suchausdruck nicht gefunden. Nichts weiter zu tun"
 	 rm $file
 	 return 2
 	else
-	 echo -e "### Starting editing" $number "nodes ### \n"
+	 echo -e "\e[34m### Starting editing" $number "nodes ### \e[0m\n"
 	 log -q 0 "$number"
 	fi
 
 	# Create Changset
 	if [ $dry -eq 0 ] ; then
 		changeset=$(put "$api/changeset/create" "mychangset" | tail -c 7)
-		if [ $? -ne 0 ] ; then log 1 "Error creating changset."; return 3 ; fi
+		if [ $? -ne 0 ] ; then log 1 1 "Error creating changset."; return 3 ; fi
 	else
 		changeset="666"
 	fi
-	echo -en "#changeset: "; log 0 "$changeset"
+	echo -en "#changeset: "; log 0 2 "$changeset"
 
 
 	#####		 Start Loop: 		#####
 	##### Edit and upload every single node	#####
-	for id in $(less $file | grep "<node id='" | cut -d\' -f 2); do
+	for id in $(less $file | grep "<node id=\"" | cut -d\" -f 2); do
 		echo -e "ID: $id"
 
 		#Download node
@@ -166,7 +182,7 @@ simpelbot()
 		#Filter unwanted Tags
 		for (( i=0; i<${#dont[*]}; i++ )) ; do
 		 if [ "$( echo $oldvalue | grep "${dont[$i]}" )" != "" ] ; then
-			echo "Don't modify'"
+			echo "Don't modify"
 			rm node$id
 			continue
 		 fi
@@ -186,21 +202,27 @@ simpelbot()
 
 		#Write changeset to file 
 		less node$id | sed "s/changeset=\"[0-9]*\"/changeset=\"$changeset\"/g" > node2
-		if [ $? -ne 0 ] ; then log 0 "Error setting changesetnumber; aborting"; return 4 ; fi
+		if [ $? -ne 0 ] ; then log 0 1 "Error setting changesetnumber; aborting"; return 4 ; fi
 		mv node2 node$id
 
 		#Edit
-		less node$id | sed "s/<tag k=\"$key\" v=\"$value\"\/>/<tag k=\"$newkey\" v=\"$newvaluefixed\"\/>/g" > node2
-		if [ $? -ne 0 ] ; then log 0 "Error editing node; aborting"; return 5 ; fi
-		diff --brief node2 node$id > /dev/null
+		cat node$id | grep -v "<tag k=\"$key\" v=\"$value\"\/>" > node2	# Remove old key
+		diff --brief node$id node2 > /dev/null
+		if [ $? -ne 1 ] ; then log 0 1 "Error editing node; aborting"; continue ; fi
+		cat node2 | head -n -2 > node3
+		echo "    <tag k=\"$newkey\" v=\"$newvaluefixed\"/>" >> node3	# Add new key
+		echo -e "  </node>\n</osm>" >> node3
+		
+		diff --brief node3 node$id > /dev/null
 		if [ $? -eq 0 ] ; then
-			log 0 "Nothig to change/changing didn't worked out."
-			rm node2 node$id
+			log 0 3 "Nothig to change/changing didn't worked out."
+			rm node2 node3 node$id
 			continue
 		elif [ $? -eq 1 ] ; then
-			mv node2 node$id
+			rm node2
+			mv node3 node$id
 		else
-			log 0 "Something strage occured. Exiting"
+			log 0 1 "Something strage occured. Exiting"
 			return 6
 		fi
 
@@ -208,7 +230,7 @@ simpelbot()
 		if [ $dry -eq 0 ] ; then
 			put "$api/node/$id" "node$id" | if [ "$curlsilent" = "-s" ] ; then grep "Status:"; else grep '' ; fi
 		else
-			echo -e "\nDon't 'Upload\n"
+			echo -e "\nDon't Upload\n"
 		fi
 
 		rm node$id
@@ -220,7 +242,7 @@ simpelbot()
 		put "$api/changeset/$changeset/close" "mychangset" | if [ "$curlsilent" = "-s" ] ; then grep "Status:"; else grep '' ; fi
 	fi
 	if [ $dry -eq 1 ] ; then
-	log 0 "Dry-Mode. Don't upload anything'"
+	log 0 2 "Dry-Mode. Don't upload anything"
 	fi
 	#Remove files
 	if [ $clean -eq 1 ] ; then
