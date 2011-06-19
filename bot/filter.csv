@@ -6,6 +6,7 @@ shop		gifts			shop		gift
 shop		book			shop		books
 shop		pets			shop		pet
 shop		mobile			shop		mobile_phone
+shop		handy			shop		mobile_phone
 shop		cars			shop		car
 shop		carpets			shop		carpet
 addr:city	Munich			addr:city	München
@@ -65,36 +66,15 @@ name 		*			name		*
 
 real_ale	Yes			real_ale	Yes
 
-# defnitly wrong tab
-amenity		Hotel			tourism		hotel
 amenity		barbeque		amenity		bbq
 amenity		barbecue		amenity		bbq
-amenity		supermarket		shop		supermarket
-shop		car_dealer		shop		car
-#shop		jeweller		shop		jewelry
-#shop		jewellery		shop		jewelry
 shop		delicatessen		shop		deli
-shop		shopping center		shop		mall
-shop		shopping_center		shop		mall
-shop		animals			shop		pet
-shop		motorbike		shop		motorcycle
 shop		cell_phones		shop		mobile_phone
 maxspeed	30mph			maxspeed	30 mph
 maxspeed	20mph			maxspeed	20 mph
 maxspeed	40mph			maxspeed	40 mph
 maxspeed	50mph			maxspeed	50 mph
 maxspeed	60mph			maxspeed	60 mph
-
-# more critical changes
-amenity		hotel			tourism		hotel
-amenity		motel			tourism		motel
-shop		garden			shop		garden_centre 
-shop		clothing		shop		clothes
-shop		flowers			shop		florist
-shop		sex			shop		erotic
-#amenity		church			amenity		place_of_worship
-#amenity		Church			amenity		place_of_worship
-#amenity		Mosque			amenity		place_of_worship
 brewery		Augustiner Bräu		brewery		Augustiner
 brewery		Augustiner-Bräu		brewery		Augustiner
 

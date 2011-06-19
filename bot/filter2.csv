@@ -1,0 +1,23 @@
+
+# defnitly wrong tab
+amenity		Hotel			tourism		hotel
+amenity		supermarket		shop		supermarket
+shop		car_dealer		shop		car
+#shop		jeweller		shop		jewelry
+#shop		jewellery		shop		jewelry
+shop		shopping center		shop		mall
+shop		shopping_center		shop		mall
+shop		animals			shop		pet
+shop		motorbike		shop		motorcycle
+
+# more critical changes
+amenity		hotel			tourism		hotel
+amenity		motel			tourism		motel
+shop		garden			shop		garden_centre 
+shop		clothing		shop		clothes
+shop		flowers			shop		florist
+shop		sex			shop		erotic
+#amenity		church			amenity		place_of_worship
+#amenity		Church			amenity		place_of_worship
+#amenity		Mosque			amenity		place_of_worship
+
