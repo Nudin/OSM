@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Start a new line in log
 startlog()
  {
  echo -en "\n" >> logfile.csv
