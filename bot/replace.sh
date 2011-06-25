@@ -8,11 +8,11 @@ newvalue="SPATEN"
 
 readuserpw()
  {
-        user=$(less user | sed '1!d' )
-        pw=$(less user | sed '2!d')
-        ftpserver=$(less user | sed '3!d')
-        ftpuser=$(less user | sed '4!d')
-        ftppw=$(less user | sed '5!d')
+        user=$(cat user | sed '1!d' )
+        pw=$(cat user | sed '2!d')
+        ftpserver=$(cat user | sed '3!d')
+        ftpuser=$(cat user | sed '4!d')
+        ftppw=$(cat user | sed '5!d')
  }
 
 readuserpw
@@ -26,11 +26,11 @@ changeset=$(curl $silent --basic -u ${user}:${pw} -i -X PUT -H "Content-Type: ap
 echo -e "\n#changeset: $changeset\n"
 
 #Write changeset to file 
-less node | sed "s/changeset=\"[0-9]*\"/changeset=\"$changeset\"/g" > node2
+cat node | sed "s/changeset=\"[0-9]*\"/changeset=\"$changeset\"/g" > node2
 mv node2 node
 
 #Edit
-less node | sed "s/<tag k=\"$key\" v=\"$value\"\/>/<tag k=\"$newkey\" v=\"$newvalue\"\/>/g" > node2
+cat node | sed "s/<tag k=\"$key\" v=\"$value\"\/>/<tag k=\"$newkey\" v=\"$newvalue\"\/>/g" > node2
 mv node2 node
 
 

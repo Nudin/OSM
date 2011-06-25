@@ -27,24 +27,26 @@ bbox=""			# BBox-Koordinates
 source loadbot.sh
 # Load the password
 readuserpw
+if [ $? -ne 0 ] ; then create_config; exit; fi
 
 
 help()	# Print out help-Text
  {
  echo -e "csvbot [-dcsh]  [-f file]"
- echo -e "\t-y t\t\talways answer yes"
+ echo -e "\t-y \t\talways answer yes"
  echo -e "\t-c text\t\tset editingcomment manual"
  echo -e "\t-a area\t\tedit only in given area"
  echo -e "\t-s\t\tMake curl to be silent"
  echo -e "\t-d\t\tdry run - don't change anything, just simulate"
  echo -e "\t-f file\t\tDon't download nodelist, but use file instead"
  echo -e "\t-e\t\tDon't erase the nodelist"
+ echo -e "\t-i\t\tCreates Configfile 'user'"
  echo -e "\t-h\t\tDisplay this help"
  exit
  }
 
 ### Check script-arguments ###
-while getopts "df:ec:a:shy" optionName; do
+while getopts "df:ec:a:shyi" optionName; do
  case "$optionName" in
   d) dry=1;;
   f) download=0;file="$OPTARG";;
@@ -53,6 +55,7 @@ while getopts "df:ec:a:shy" optionName; do
   c) comment="$OPTARG";;
   a) usearea $OPTARG;;
   y) yes=1;;
+  i) create_config; exit;;
   h) help;;
   [?]) help;;
  esac
@@ -63,15 +66,15 @@ shift `expr $OPTIND - 1`
 ######### Start of script ##########
 ### Scan CSV-File and apply rule ###
 ####################################
-lines=$(less filter.csv | grep -v '#' | grep -v '^\W*$' | sort | uniq | wc -l)
-for (( n=1; n<$lines; n++ )) ; do
+lines=$(cat filter.csv | grep -v '#' | grep -v '^\W*$' | sort | uniq | wc -l)
+for (( n=1; n<=$lines; n++ )) ; do
 	startlog
 	# CSV auslesen
-	line=$( less filter.csv | grep -v '#' | grep -v '^\W*$' | sort | uniq | tr -s '\t' | sed -ne "${n}p" )
-	key=$(echo $line | cut -f1)
-	searchvalue=$(echo $line | cut -f2)
-	newkey=$(echo $line | cut -f3)
-	newvalue=$(echo $line | cut -f4)
+	line="$( cat filter.csv | grep -v '#' | grep -v '^\W*$' | sort | uniq | tr -s '\t' | sed -ne "${n}p" )"
+	key="$(echo "$line" | cut -f1)"
+	searchvalue="$(echo "$line" | cut -f2)"
+	newkey="$(echo "$line" | cut -f3)"
+	newvalue="$(echo "$line" | cut -f4)"
 
 	simpelbot "$key" "$searchvalue" "$newkey" "$newvalue"
 	succes=$?

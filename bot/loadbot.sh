@@ -39,11 +39,28 @@ log()
 
 readuserpw()
  {
-	user=$(less user | sed '1!d' )
-	pw=$(less user | sed '2!d')
-	ftpserver=$(less user | sed '3!d')
-	ftpuser=$(less user | sed '4!d')
-	ftppw=$(less user | sed '5!d')
+ if [ -f user ] ; then
+	user=$(cat user | sed '1!d' )
+	pw=$(cat user | sed '2!d')
+	ftpserver=$(cat user | sed '3!d')
+	ftpuser=$(cat user | sed '4!d')
+	ftppw=$(cat user | sed '5!d')
+ else
+ 	echo "No config file found. Please create file 'user'."
+ 	return 1
+ fi
+ }
+create_config()
+ {
+ read -p "Openstreetmap-Username: " user
+ read -p "Openstreetmap password (won't display'): " -s pw
+ echo
+ read -p "ftp-server where to upload log: " ftpserver
+ read -p "ftp-Username: " ftpuser
+ read -p "ftp-Password (won't display'): " -s ftppw
+ echo
+ echo -e "$user\n$pw\n$ftpserver\n$ftpuser\n$ftppw" > user
+ if [ $? -eq 0 ] ; then echo "created config-file 'user'." ; fi
  }
 
 
@@ -94,10 +111,10 @@ usearea()
 # This is the actual bot.
 simpelbot()
 {
-	key=$1
-	searchvalue=$2
-	newkey=$3
-	newvalue=$4
+	key="$1"
+	searchvalue="$2"
+	newkey="$3"
+	newvalue="$4"
 
 	#API-Adress
 	api="http://api.openstreetmap.org/api/0.6"
@@ -108,7 +125,7 @@ simpelbot()
 	else
 		value=$searchvalue
 	fi
-	searchvalue=$(echo $searchvalue | sed 's/\//\\\//g')
+	searchvalue=$(echo "$searchvalue" | sed 's/\//\\\//g')
 
 	# Generate BBox-code, if bbox is given
 	if [ "$bbox" != "" ] ; then
@@ -136,14 +153,14 @@ simpelbot()
 	fi
 
 	# Write comment to Changesetfile
-	less changset.bot | rx=$comment perl -pe 's/@@@/$ENV{rx}/' > mychangset	#Use Perl instead of sed, because perl dosn't interpret the text
+	cat changset.bot | rx=$comment perl -pe 's/@@@/$ENV{rx}/' > mychangset	#Use Perl instead of sed, because perl dosn't interpret the text
 	if [ $? -ne 0 ] ; then log 2 1 "Error setting comment; aborting"; return 7 ; fi
 
 	# Download Node-list
 	if [ $download -eq 1 ] ; then
 		XAPIdownload "node[${key}=${searchvalue}]$bboxcode" "$file"
 	fi
-	number=$(less $file | grep "<node id=" | wc -l )
+	number=$(cat $file | grep "<node id=" | wc -l )
 	if [ $number -eq 0 ] ; then # If there ist nothing to edit, exit
 	 log 2 1 "Suchausdruck nicht gefunden. Nichts weiter zu tun"
 	 rm $file
@@ -165,14 +182,14 @@ simpelbot()
 
 	#####		 Start Loop: 		#####
 	##### Edit and upload every single node	#####
-	for id in $(less $file | grep "<node id=\"" | cut -d\" -f 2); do
+	for id in $(cat $file | grep "<node id=\"" | cut -d\" -f 2); do
 		echo -e "ID: $id"
 
 		#Download node
 		get "$api/node/$id" "node$id"
 
 		#Get oldvalue, prepare newvalue, etc
-		oldvalue=$(less node$id | grep "<tag k=\"$key\"" | cut -d\" -f 4)
+		oldvalue=$(cat node$id | grep "<tag k=\"$key\"" | cut -d\" -f 4)
 		if [ "$newvalue" = "*" ] ; then
 			newvaluefixed=$(echo $oldvalue | sed 's/\//\\\//g')
 		else
@@ -190,18 +207,18 @@ simpelbot()
 
 		#Filter dupple-taged elements.
 		if [ "$key" != "$newkey" ] ; then
-		 if [ $(less node$id | grep -c "<tag k=\"$newkey\" v=\"$newvaluefixed\"/>") -gt 0 ] ; then
+		 if [ $(cat node$id | grep -c "<tag k=\"$newkey\" v=\"$newvaluefixed\"/>") -gt 0 ] ; then
 			echo "Skipping Dupple entry."
 			rm node$id
 			continue
-		 elif [ $(less node$id | grep -c "<tag k=\"$newkey\" v=\"") -gt 0 ] ; then
+		 elif [ $(cat node$id | grep -c "<tag k=\"$newkey\" v=\"") -gt 0 ] ; then
 			echo "Skipping rival tags"
 			rm node$id
 			continue
 		fi fi
 
 		#Write changeset to file 
-		less node$id | sed "s/changeset=\"[0-9]*\"/changeset=\"$changeset\"/g" > node2
+		cat node$id | sed "s/changeset=\"[0-9]*\"/changeset=\"$changeset\"/g" > node2
 		if [ $? -ne 0 ] ; then log 0 1 "Error setting changesetnumber; aborting"; return 4 ; fi
 		mv node2 node$id
 
