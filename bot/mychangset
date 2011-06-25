@@ -1,6 +1,0 @@
-<osm>
- <changeset>
-	<tag k="created_by" v="MichisSimpleBot"/>
-	<tag k="comment" v="Bot: changing amanety=.* to amenity=*"/>
- </changeset>
-</osm>
