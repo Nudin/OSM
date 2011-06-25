@@ -8,8 +8,11 @@ version_de="Welche JOSM ersion soll verwendet werden?"
 choose_de="Bitte Profil auswählen"
 title_de="JOSM-Profile-Manager"
 
-profilepath="~/.josm_profiles"
-osmpath="$(pwd)$(dirname $0 | tr -d .)"
+profilepath="${HOME}/.josm_profiles"
+osmpath="$(dirname $0 | tr -d .)"
+if [ "$osmpath" = "" ] ; then
+	osmpath=$(pwd)
+fi
 
 open()
  {
@@ -28,7 +31,7 @@ clone()
  }
 getlist()
  {
- cat $profilepath/list
+ eval cat $profilepath/list
  }
 showmenue()
  {
@@ -41,7 +44,7 @@ showmenue()
 startjosm()
  {
  cd $osmpath
- if [ "$(cat $profilepath/list | grep ^$1 | cut -f2)" -eq 0 ] ; then
+ if [ "$(eval cat $profilepath/list | grep ^$1 | cut -f2)" -eq 0 ] ; then
 	java -jar josm-tested.jar
  else
  	java -jar josm-latest.jar
