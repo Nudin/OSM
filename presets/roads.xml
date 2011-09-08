@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0"
+  author="Michael Schoenitzer"
+  version="0.1"
+  shortdescription="One click road"
+  de.shortdescription="Ein Klick Straße"
+  description="Tag roads with only one click"
+  de.description="Straßen mit nur einem Klick taggen">
+
+  <group name="One click road" de.name="Ein Klick Straße" icon="oneclick.png">
+        <item name="Primary" icon="presets/way_primary.png" type="way">
+            <key key="highway" value="primary" />
+        </item>
+        <item name="Secondary" icon="presets/way_secondary.png" type="way">
+            <key key="highway" value="secondary" />
+        </item>
+        <item name="Tertiary" icon="presets/way_tertiary.png" type="way">
+            <key key="highway" value="tertiary" />
+        </item>
+        <item name="Unclassified" icon="presets/way_unclassified.png" type="way">
+           <key key="highway" value="unclassified" />
+        </item>
+       <item name="Residential" de.name="Ortsstraße" icon="presets/residential.png" type="way">
+           <key key="highway" value="residential" />
+       </item>
+        <item name="Service" icon="presets/way_unclassified.png" type="way">
+            <key key="highway" value="service" />
+        </item>
+  </group>
+</presets>
