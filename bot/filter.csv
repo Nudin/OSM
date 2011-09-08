@@ -28,13 +28,13 @@ amenity		grave yard		amenity		grave_yard
 amenity		grave-yard		amenity		grave_yard
 amenity		graveyard		amenity		grave_yard
 amenity		postbox			amenity		post_box
-Amenity		*			amenity		*
-amanity		*			amenity		*
-amanety		*			amenity		*
-max_speed	*			maxspeed	*
-bicylce		*			bicycle		*
-bicyle		*			bicycle		*
-bicycles	*			bicycle		*
+#Amenity		*			amenity		*
+#amanity		*			amenity		*
+#amanety		*			amenity		*
+#max_speed	*			maxspeed	*
+#bicylce		*			bicycle		*
+#bicyle		*			bicycle		*
+#bicycles	*			bicycle		*
 addr:interpolation	uneven		addr:interpolation	odd
 name		Hypo Vereinsbank	name		HypoVereinsbank
 name		Hypo-Vereinsbank	name		HypoVereinsbank
@@ -45,7 +45,7 @@ operator	Hypo-Vereinsbank	operator	HypoVereinsbank
 operator	HypovereinsBank		operator	HypoVereinsbank
 operator	Hypovereinsbank		operator	HypoVereinsbank
 amenity		church hall		amenity		church_hall
-Operator	*			operator	*
+#Operator	*			operator	*
 operator	McDonald		operator	McDonald's
 operator	McDonalds		operator	McDonald's
 #operator	e-on		operator	EON_Netz	nur in DE
@@ -60,9 +60,9 @@ sex		man			sex		male
 sex		women			sex		female
 sex		Both			sex		unisex
 #Deppen-Leerzeichen
- type		*			type		*
-name: en	*			name:en		*
-name 		*			name		*
+# type		*			type		*
+#name: en	*			name:en		*
+#name 		*			name		*
 
 real_ale	Yes			real_ale	Yes
 
