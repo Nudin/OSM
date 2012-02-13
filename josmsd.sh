@@ -69,7 +69,8 @@ echo "value: $searchvalue"
 echo "bbox: $bbox"
 
 
-wget "http://jxapi.openstreetmap.org/xapi/api/0.6/${type}[${key}=${searchvalue}][bbox=$bbox]" -O josmfile.osm
+#wget "http://jxapi.openstreetmap.org/xapi/api/0.6/${type}[${key}=${searchvalue}][bbox=$bbox]" -O josmfile.osm
+wget "http://open.mapquestapi.com/xapi/api/0.6/${type}[${key}=${searchvalue}][bbox=$bbox]" -O josmfile.osm
 
 if [ $? -ne 0 -o $open -eq 0 ] ; then
  exit
